@@ -1,0 +1,137 @@
+{
+  "Error": {
+    "404": {
+      "title": "Oh no! You shouldn't be seeing this",
+      "detail": "Sorry, the page you're looking for doesn't exist."
+    },
+    "500": {
+      "title": "Oops, that's our mistake.",
+      "detail": "We're not quite sure what happened, but our servers say something is wrong. We apologize and are working to fix the issue. Please try again later."
+    },
+    "400": {
+      "title": "Something went wrong",
+      "detail": "There seems to be an error processing your request."
+    },
+    "cta": "Return to the homepage"
+  },
+  "Auth": {
+    "featureModal": {
+      "title": "Get the most out of Acme News by signing in",
+      "followSources": "<b>Follow sources & topics</b> to see more of them",
+      "seeForYou": "See news related to your interests in <b>For You</b>",
+      "getLocalNews": "Get <b>local news</b> from the places you care about"
+    },
+    "login": {
+      "prompt": {
+        "question": "Don't have an account yet?",
+        "cta": "Sign up"
+      },
+      "title": "Log in or Sign up",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "cta": {
+        "google": "Continue with Google",
+        "facebook": "Continue with Facebook",
+        "email": "Continue with Email"
+      }
+    },
+    "signUp": {
+      "title": "Sign up<br>and come on in",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "prompt": {
+        "question": "Already have an account?",
+        "cta": "Log in"
+      },
+      "cta": {
+        "google": "Sign up with Google",
+        "facebook": "Sign up with Facebook",
+        "email": "Sign up with Email",
+        "createAccount": "Create my free account"
+      },
+      "terms": {
+        "label": "By signing up, you agree to our <a class='underline' href='#'>Terms of Service</a> and <a class='underline' href='#'>Privacy Policy</a>.",
+        "required": "Please accept the terms and conditions to finish the signup"
+      }
+    }
+  },
+  "Common": {
+    "or": "or",
+    "customize": "Customize",
+    "follow": "Follow",
+    "followTopic": "Follow this topic",
+    "following": "Following",
+    "article": {
+      "author": "By {author}"
+    },
+    "categories": {
+      "home": "Home",
+      "forYou": "For you",
+      "following": "Following",
+      "us": "U.S.",
+      "world": "World",
+      "business": "Business",
+      "technology": "Technology",
+      "entertainment": "Entertainment",
+      "sports": "Sports",
+      "science": "Science",
+      "health": "Health"
+    },
+    "newsletter": {
+      "title": "Get notified when we’re launching",
+      "description": "Reprehenderit ad esse et non officia in nulla. Id proident tempor incididunt nostrud nulla et culpa.",
+      "cta": "Notify me",
+      "alert": {
+        "title": "Success!"
+      }
+    },
+    "cta": {
+      "signIn": "Sign in",
+      "noThanks": "No, thanks"
+    },
+    "form": {
+      "required": "This field cannot be left blank",
+      "email": {
+        "label": "Email",
+        "placeholder": "Enter your email",
+        "errorMessage": "Invalid email. Email must be a valid email address"
+      },
+      "fullName": {
+        "label": "Full name",
+        "placeholder": "Enter your full name",
+        "errorMessage": "Full name must be at least 2 characters long"
+      },
+      "password": {
+        "label": "Password",
+        "placeholder": "Enter your password",
+        "errorMessage": {
+          "minLength": "Password must be at least 8 characters long"
+        }
+      }
+    },
+    "recaptcha": {
+      "info": "This site is protected by reCAPTCHA and the Google <a class='underline' href='https://policies.google.com/privacy'>Privacy Policy</a> and <a class='underline' href='https://policies.google.com/terms'>Terms of Service</a> apply."
+    }
+  },
+  "Home": {
+    "title": "Your briefing",
+    "topStories": {
+      "title": "Top stories"
+    },
+    "recommendations": {
+      "title": "Picks for you",
+      "description": "Sign in for personalized stories in your briefing & news feed"
+    },
+    "more": {
+      "title": "More news",
+      "description": "Sign in to get stories based on your interests"
+    },
+    "yourTopics": {
+      "title": "Your topics",
+      "description": "Recommended based on your interests"
+    },
+    "interest": {
+      "title": "Get more news based on your interests",
+      "noAuthTitle": "Sign in to keep your new Acme News and get news based on your interests",
+      "cta": "For you"
+    }
+  }
+}

@@ -1,0 +1,1306 @@
+{
+  "status": "ok",
+  "totalResults": 55029,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "2024-12-14T20:00:52Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jay Peters",
+      "title": "Dana White is joining Meta’s board of directors",
+      "description": "Meta is adding three new people to its board of directors: UFC president and CEO Dana White, Exor CEO John Elkann, and technology investor Charlie Songhurst.",
+      "url": "https://www.theverge.com/2025/1/6/24337670/meta-board-of-directors-dana-white-ufc",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/u9jTTxbbwkMs2LDY42bFs8nWaFs=/0x0:4833x3222/1200x628/filters:focal(2417x1611:2418x1612)/cdn.vox-cdn.com/uploads/chorus_asset/file/25820258/2148549709.jpg",
+      "publishedAt": "2025-01-06T22:53:33Z",
+      "content": "Dana White is joining Metas board of directors\r\nDana White is joining Metas board of directors\r\n / Mark Zuckerberg says he has admired White and his ability to build the UFC.\r\nByJay Peters, a news ed… [+1999 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Matthew Gault",
+      "title": "Feds Say the Technology They Use to Control the Weather Doesn’t Work",
+      "description": "America spends millions on cloud seeding every year, with mixed results.",
+      "url": "https://gizmodo.com/feds-say-the-technology-they-use-to-control-the-weather-doesnt-work-2000544940",
+      "urlToImage": "https://gizmodo.com/app/uploads/2025/01/CloudSeedingIndia.jpg",
+      "publishedAt": "2025-01-02T19:25:32Z",
+      "content": "For as long as humans have suffered at the hands of the storms they have dreamed of controlling the weather. The United States, like all great empires lost to hubris, has long sought to manipulate th… [+4953 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "2025-01-06T19:00:23Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Could AI robots replace human astronauts in space?",
+      "description": "Advances in technology raise questions about the need to send people to space - and the risks and cost",
+      "url": "https://www.bbc.com/news/articles/cy7keddnj31o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6e06/live/26519540-c150-11ef-a2ca-e99d0c9a24e3.png",
+      "publishedAt": "2024-12-31T01:46:51Z",
+      "content": "On Christmas Eve, an autonomous spacecraft flew past the Sun, closer than any human-made object before it. Swooping through the atmosphere, Nasa's Parker Solar Probe was on a mission to discover more… [+10133 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "The six-day police hunt for CEO killing suspect",
+      "description": "The CEO shooting suspect's technology expertise might helped him evade capture, but basic mistakes caught up to him in the end.",
+      "url": "https://www.bbc.com/news/articles/c0ewgp1qrqvo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/653a/live/d6bdb000-b735-11ef-a64f-b3c7b6699fbc.jpg",
+      "publishedAt": "2024-12-10T20:54:27Z",
+      "content": "Luigi Mangione, 26, a suspect in the New York City killing of Unitedhealth executive Brian Thompson, arrives for an extradition hearing at in Hollidaysburg, Pennsylvania, on Tuesday.\r\nIt wasn't DNA o… [+9493 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "2024-12-18T13:30:29Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Engadget",
+      "title": "Our favorite books we read in 2024",
+      "description": "We may be a bit technology-obsessed here, but the Engadget team does occasionally get around to low-tech activities, like reading. Well, some of us read on ereaders or our smartphones, but you get the point — books are great, and we read some exceptional ones…",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_a3047641-6a1c-4d3a-8639-9cd36425e6a8",
+      "urlToImage": null,
+      "publishedAt": "2024-12-21T15:15:14Z",
+      "content": "If you click 'Accept all', we and our partners, including 237 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MacRumors"
+      },
+      "author": "Juli Clover",
+      "title": "Apple Releases Safari Technology Preview 210 With Bug Fixes and Performance Improvements",
+      "description": "Apple today released a new update for Safari Technology Preview, the experimental browser that was first introduced in March 2016. Apple designed ‌Safari Technology Preview‌ to allow users to test features that are planned for future release versions of the S…",
+      "url": "https://www.macrumors.com/2024/12/18/apple-releases-safari-technology-preview-210/",
+      "urlToImage": "https://images.macrumors.com/t/gSfA9gdPJTtAYv_7hjK9YByevcM=/2500x/article-new/2024/07/Safari-Technology-Preview-Updated-Feature-1.jpg",
+      "publishedAt": "2024-12-18T22:11:09Z",
+      "content": "Apple today released a new update for Safari Technology Preview, the experimental browser that was first introduced in March 2016. Apple designed ‌Safari Technology Preview‌ to allow users to test fe… [+977 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "2025-01-08T00:28:27Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "2024-12-14T21:37:20Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NPR"
+      },
+      "author": "Emily Jones",
+      "title": "NEW TECHNOLOGY GIVES HOPE TO SAVE ENDANGERED RIGHT WHALE",
+      "description": "Conservationists are getting better at monitoring the movement of the highly endangered Right Whale. They hope it will help encourage ships to slow down in an effort to save the species.",
+      "url": "https://www.npr.org/2024/12/31/nx-s1-5214493/technology-gives-hope-save-endangered-right-whale-monitoring-ships",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4032x2268+0+583/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3f%2Ffa%2F20d9123a42d0adaedc63ddb876f3%2Fimg-7518.jpg",
+      "publishedAt": "2024-12-31T14:50:44Z",
+      "content": "Most winter days off Georgia's coast, scientists criss-cross the waves looking for North Atlantic right whales. Those in a boat stay in constant contact with colleagues in a small plane all scanning … [+4690 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Pete Etchells",
+      "title": "How to Build a Healthier Relationship With Your Screen",
+      "description": "Don’t panic, doomscrollers: It’s possible to reframe your habits and make screen time more positive and curated.",
+      "url": "https://www.wired.com/story/healthy-screen-time-habits-tech-use/",
+      "urlToImage": "https://media.wired.com/photos/673f5f5d93a49b7ad71a48ce/191:100/w_1280,c_limit/WW25-How-To-PE-Simon-Landrein.jpg",
+      "publishedAt": "2025-01-01T09:00:00Z",
+      "content": "Whether its for work, convenience, connection or entertainment, we rely on digital technology. But the prevailing wisdom is that our screen-based lives are not good for usthat our digital devices and… [+5474 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Samantha Kelly",
+      "title": "Apple Is Developing a Doorbell That Unlocks With Your Face, Report Says",
+      "description": "The latest development aligns with Apple's rumored strategy to go all in on smart home technology.",
+      "url": "https://www.cnet.com/tech/mobile/apple-is-developing-a-doorbell-that-unlocks-with-your-face-report-says/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/98fff0e535a9f3d62a34276fbfca02aa9ab66860/hub/2024/12/23/ace63613-0381-4f2b-a9bf-d91435eb06d5/gettyimages-541355130.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2024-12-23T18:35:42Z",
+      "content": "Move over, Ring: Apple is reportedly working on a smart doorbell -- one that unlocks for household members it recognizes.\r\nApple's doorbell would have advanced facial recognition technology that wire… [+1206 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Matt Burgess",
+      "title": "The Paper Passport Is Dying",
+      "description": "Smartphones and face recognition are being combined to create new digital travel documents. The paper passport’s days are numbered—despite new privacy risks.",
+      "url": "https://www.wired.com/story/the-paper-passport-is-dying/",
+      "urlToImage": "https://media.wired.com/photos/6758ceca85a4e1df8d5e3479/191:100/w_1280,c_limit/Security_Passport_GettyImages-1650912256.jpg",
+      "publishedAt": "2024-12-27T11:30:00Z",
+      "content": "In a matter of years, no matter where you live or travel, your face will likely be your new passport.\r\nFor centuries, people have used some form of passport while moving from place to place. But the … [+2594 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "David Carnoy",
+      "title": "Shokz OpenFit 2 Earbuds Get Improved Design and Sound Quality",
+      "description": "We go hands-on with Shokz's upgraded true-wireless OpenFit 2 open earbuds that use its air-conduction speaker technology.",
+      "url": "https://www.cnet.com/tech/mobile/shokz-openfit-2-earbuds-get-improved-design-and-sound-quality/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/a8eccc2fdcb022d69e8bd69607d2cbfe7a00d4ee/hub/2025/01/07/9a6bd73d-15fb-4052-bc76-f908b7f59dea/shokz-openfit2-main-promo.png?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-01-07T13:00:00Z",
+      "content": "When Shokz released its OpenFit earbuds in 2023, they got a lot of attention because they were the company's first true-wireless earbuds and its first headphones to use standard speaker technology in… [+4449 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Tom Warren",
+      "title": "AMD announces next-gen Radeon RX 9070-series GPUs with AI-powered FSR 4 upscaling",
+      "description": "AMD is previewing its next-gen GPUs and FSR 4 upscaling. The Radeon RX 9070 XT and RX 9070 will be the first GPUs with AI-powered FSR 4 upscaling support.",
+      "url": "https://www.theverge.com/2025/1/6/24336246/amd-radeon-rx-9070-series-rdna-4-fsr-4-ces-2025",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/61QbankdgUoUNMJhpHK3UNVrpnM=/0x0:3840x2158/1200x628/filters:focal(1920x1079:1921x1080)/cdn.vox-cdn.com/uploads/chorus_asset/file/25817672/radeonrx7000series.jpeg",
+      "publishedAt": "2025-01-06T19:45:00Z",
+      "content": "AMD announces next-gen Radeon RX 9070-series GPUs with AI-powered FSR 4 upscaling\r\nAMD announces next-gen Radeon RX 9070-series GPUs with AI-powered FSR 4 upscaling\r\n / AMD is only previewing its nex… [+2809 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Connie Guglielmo",
+      "title": "This AI Tool Lets Doctors and Traveling Patients Converse, Despite Language Barriers",
+      "description": "Humetrix leaned into AI to connect visitors and athletes with doctors at the Paris Olympics. Now it's premiering voice-to-voice technology at CES.",
+      "url": "https://www.cnet.com/health/medical/ai-tool-lets-doctors-traveling-patients-converse-despite-language-barriers/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/3809178b3419a71b8c57862f99a3ed3b5b2d5ba8/hub/2025/01/06/743ab844-d286-4caa-ab55-7231ff2cc548/global-health-communicator-application-in-a-paris-ed.png?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-01-07T11:22:03Z",
+      "content": "What happens when millions of people gather for a global event in a country where they may not speak the language but suddenly need medical attention? \r\nFor starters, you try to figure out a way to c… [+5673 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Katie Collins",
+      "title": "CES 2025: What Is the Huge Tech Show and What Trends Do Experts Predict?",
+      "description": "One of the biggest technology events on the planet starts next week and CNET's experts have insider knowledge on what's coming. Here's what you need to know.",
+      "url": "https://www.cnet.com/tech/ces-2025-what-is-the-huge-tech-show-and-what-trends-do-experts-predict/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/347ffc94ce848cfa5137644b9c2844e5ea73354c/hub/2024/11/25/0d8341b0-7695-4516-84c1-963a1ef74d42/cnet-at-ces-horizontal-promo.png?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-01-02T20:22:00Z",
+      "content": "CNET is going to Las Vegas and we're taking you with us. Many of you will be enjoying a slow start to the new year, but we're diving headfirst into 2025 with our first destination: CES, the big kahun… [+11249 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Lauren Edmonds",
+      "title": "These 5 trends will steer retail in 2025",
+      "description": "Technology will continue to profoundly impact the retail industry in 2025, pushing the boundaries of traditional sales and e-commerce.",
+      "url": "https://www.businessinsider.com/the-biggest-retail-trends-in-2025-2024-12",
+      "urlToImage": "https://i.insider.com/6764a1a61cee543535a86cf9?width=1200&format=jpeg",
+      "publishedAt": "2024-12-26T11:01:02Z",
+      "content": "EMARKETER shared five trends hitting retailers in 2025.Ute Grabowsky/Photothek via Getty Images\r\n<ul><li>Market research company EMARKETER shared its forecast for retail in 2025.</li><li>Chinese apps… [+9554 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Geoff Weiss,Lucia Moses",
+      "title": "Sora's dazzling AI could democratize filmmaking for the next generation — but it still has lots of limitations",
+      "description": "Filmmakers and professors said OpenAI's Sora could help indie movies, but the technology is still in early stages.",
+      "url": "https://www.businessinsider.com/sora-ai-film-movies-openai-who-uses-special-effects-2024-12",
+      "urlToImage": "https://i.insider.com/675cae2ecf8d1359a2e00dbd?width=1200&format=jpeg",
+      "publishedAt": "2024-12-15T10:47:01Z",
+      "content": "Even before OpenAI's video generator Sora rolled out, bold-faced creatives were bracing for impact.Costfoto/NurPhoto via Getty Images\r\n<ul><li>Business Insider spoke to up-and-coming filmmakers and p… [+5583 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Pranav Dixit",
+      "title": "Bluesky versus Threads: A new survey shows a deep political divide between social media's newest rivals",
+      "description": "A new survey unveils the political divide between Bluesky and Threads users, examining their engagement and attitudes toward AI technology.",
+      "url": "https://www.businessinsider.com/bluesky-threads-survey-political-divide-2024-12",
+      "urlToImage": "https://i.insider.com/676d778b7236dcf54aa25af8?width=1200&format=jpeg",
+      "publishedAt": "2024-12-26T15:44:03Z",
+      "content": "A survey found a political divide between Bluesky and Threads users.Anna Barclay/Getty Images\r\n<ul><li>A survey shows Bluesky users are more Democratic and politically engaged than Threads users.</li… [+3461 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "2025-01-07T15:16:25Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "2024-12-18T00:15:19Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "2025-01-06T19:45:00Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "2025-01-08T13:15:53Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "2025-01-10T13:00:41Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Soumya Eswaran",
+      "title": "Micron Technology (MU) Shares Sold Off After Weak Guidance",
+      "description": "Invesco Distributors, Inc., an investment management firm, released its “Invesco Growth and Income Fund” third quarter 2024 investor letter. A copy of the...",
+      "url": "https://finance.yahoo.com/news/micron-technology-mu-shares-sold-134019260.html",
+      "urlToImage": "https://media.zenfs.com/en/insidermonkey.com/3fb3bbedb98bcf74705e7c94a126b4c2",
+      "publishedAt": "2024-12-20T13:40:19Z",
+      "content": "Invesco Distributors, Inc., an investment management firm, released its Invesco Growth and Income Fund third quarter 2024 investor letter. A copy of the letter can be downloaded here. US stocks exper… [+2671 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "AJ Dellinger",
+      "title": "Feds Launch Safety Probe Into 2.6 Million Tesla’s Remote Summon Feature",
+      "description": "The National Highway Traffic Safety Administration's is focused on safety concerns related to the \"Actually Smart Summon\" (ASS) feature.",
+      "url": "https://gizmodo.com/feds-launch-safety-probe-into-2-6-million-teslas-remote-summon-feature-2000546966",
+      "urlToImage": "https://gizmodo.com/app/uploads/2025/01/GettyImages-1434797508.jpg",
+      "publishedAt": "2025-01-07T19:15:09Z",
+      "content": "In 2016, Elon Musk promised that Tesla owners would be able to “summon” their vehicle from anywhere, including having a car in New York come to its driver in Los Angeles. In 2025, Tesla’s summon tech… [+3362 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Ana Altchek",
+      "title": "I work at Microsoft and teach a Stanford Online course on AI. These are my tips for non-technical workers.",
+      "description": "There are two tracks I recommend for non-technical professionals to gain impact with AI: skill up or become an expert in the technology in your field.",
+      "url": "https://www.businessinsider.com/microsoft-employee-stanford-online-ai-class-tips-non-technical-workers-2024-11",
+      "urlToImage": "https://i.insider.com/673cd7bf192f525898596a5e?width=1200&format=jpeg",
+      "publishedAt": "2024-12-22T09:27:02Z",
+      "content": "I work at Microsoft and teach a Stanford Online course about generative AI.Aditya Challapally\r\n<ul><li>Aditya Challapally teaches a Stanford Online course on generative AI for tech-adjacent professio… [+5269 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Jenny McGrath",
+      "title": "5 times entire towns were found buried",
+      "description": "Dirt, ice, and greenery can all conceal hidden or forgotten cities. Here are five cities that were rediscovered through technology or by chance.",
+      "url": "https://www.businessinsider.com/buried-cities-rediscovered-photos",
+      "urlToImage": "https://i.insider.com/676db5d99de00e389eb37c6f?width=1200&format=jpeg",
+      "publishedAt": "2025-01-07T21:33:11Z",
+      "content": "Derinkuyu, Turkey's underground city.Wirestock Creators/Shutterstock\r\n<ul><li>Throughout human history, cities have been abandoned or reclaimed by nature.</li><li>Sometimes people rediscover these ci… [+13446 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Erica Sweeney",
+      "title": "How Depop's AI image-recognition tool speeds up selling for 180,000 daily listings",
+      "description": "Depop's new AI feature generates item descriptions using image-recognition technology. It's boosted the number of site listings and saves users time.",
+      "url": "https://www.businessinsider.com/depop-gen-ai-description-generator-helps-sellers-create-listings-faster-2024-12",
+      "urlToImage": "https://i.insider.com/67605c93cf8d1359a2e02d24?width=1200&format=jpeg",
+      "publishedAt": "2024-12-16T17:00:08Z",
+      "content": "Depop users can buy and sell clothing items on the platform.Courtesy of Depop\r\n<ul><li>Depop's new gen-AI feature creates item descriptions based on photos that users upload.</li><li>The tool has boo… [+5984 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Gear Team",
+      "title": "10 More of the Coolest Things We’ve Seen at CES 2025",
+      "description": "More of the wild ideas and clever innovations we’re seeing this week at tech’s big show in Las Vegas.",
+      "url": "https://www.wired.com/gallery/ces-2025-photo-gallery-day-2/",
+      "urlToImage": "https://media.wired.com/photos/677c4c835c3b6bd576bf387a/191:100/w_2580,c_limit/CES-Gear-TD_2025_01_06_012.jpg",
+      "publishedAt": "2025-01-07T11:30:00Z",
+      "content": "There is a growing awareness that, as great as technology can be, too much too soon for our kids might not be the best idea. Pinwheel has been one of the leading names in smartphones for children and… [+1216 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Lawrence Bonk",
+      "title": "NVIDIA's Reflex 2 predicts milliseconds into the future of competitive games",
+      "description": "NVIDIA’s Reflex technology just got a massive upgrade, as announced at CES 2025 in Las Vegas\r\n. The company’s Reflex 2 kicks things up several notches, thanks to some software wizardry. The end result? A promise to further reduce gaming latency by up to 75 pe…",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_c09b4d5f-5e0a-4bfa-9909-59ed6a469141",
+      "urlToImage": null,
+      "publishedAt": "2025-01-07T18:22:13Z",
+      "content": "If you click 'Accept all', we and our partners, including 238 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Jean-Guillaume Kleis",
+      "title": "At CES, Roborock Unveils Three Robovacs That Hint at the Future of Home Cleaning",
+      "description": "Following the success of its S, Q, and Qrevo lines, Roborock unveils the next-generation Saros series.",
+      "url": "https://gizmodo.com/at-ces-roborock-unveils-three-robovacs-that-hint-at-the-future-of-home-cleaning-2000546133",
+      "urlToImage": "https://gizmodo.com/app/uploads/2025/01/z70.jpg",
+      "publishedAt": "2025-01-08T13:02:09Z",
+      "content": "At CES 2025, Roborock has unveiled its groundbreaking Saros series which is a trio of robotic AI-powered vacuum cleaners set to transform home cleaning. Under the banner “Rock a New Era,” these smart… [+5261 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "2025-01-06T21:40:39Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "2024-12-18T15:47:36Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "2024-12-28T22:09:33Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "2025-01-06T19:45:35Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jay Peters",
+      "title": "Acer made an enormous 11-inch gaming handheld",
+      "description": "Acer is announcing two new Nitro Blaze gaming handhelds at CES 2025, including the Nitro Blaze 11 with a massive 10.95-inch screen.",
+      "url": "https://www.theverge.com/2025/1/6/24335423/acer-handheld-gaming-pc-nitro-blaze-8-11-specs-price",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/c6uO26tXCX-ETqHJuWv-i2kwEto=/0x0:3840x2160/1200x628/filters:focal(1881x1458:1882x1459)/cdn.vox-cdn.com/uploads/chorus_asset/file/25815999/Nitro_Blaze_11_GN7112U_lifestyle_2.jpg",
+      "publishedAt": "2025-01-06T19:45:00Z",
+      "content": "Acer made an enormous 11-inch gaming handheld\r\nAcer made an enormous 11-inch gaming handheld\r\n / The Nitro Blaze 11 has a giant 10.95-inch screen.\r\nByJay Peters, a news editor who writes about techno… [+1176 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "VentureBeat"
+      },
+      "author": "Dean Takahashi",
+      "title": "Inworld AI teams with Nvidia and Streamlabs on intelligent streaming assistant",
+      "description": "Inworld AI announced it is collaborating with Nvidia and Streamlabs to create an intelligent streaming assistant using AI technology.",
+      "url": "https://venturebeat.com/games/inworld-ai-teams-with-nvidia-and-streamlabs-on-intelligent-streaming-assistant/",
+      "urlToImage": "https://venturebeat.com/wp-content/uploads/2025/01/inworld-streamlabs-nvidia-2.jpg?w=1024?w=1200&strip=all",
+      "publishedAt": "2025-01-07T04:24:00Z",
+      "content": "Inworld AI announced it is collaborating with Nvidia and Streamlabs to create an intelligent streaming assistant using AI technology.\r\nStreamlabs Intelligent Streaming Assistant is like an interactiv… [+5088 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Justine Calma",
+      "title": "Biden administration raises tariffs on solar materials from China",
+      "description": "Joe Biden has hiked tariffs on key materials from China that are needed for solar panels and other clean energy technologies.",
+      "url": "https://www.theverge.com/2024/12/12/24319521/china-tariffs-solar-energy-wafer-polysilicon-tungsten",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/t0mMHj9-9B3l-fSjbgP64RuKv78=/0x0:3373x2253/1200x628/filters:focal(1687x1127:1688x1128)/cdn.vox-cdn.com/uploads/chorus_asset/file/25787008/2161788194.jpg",
+      "publishedAt": "2024-12-12T16:46:18Z",
+      "content": "A worker handles wafers at the GCL Technology production plant in Xuzhou, Jiangsu Province, China, on Tuesday, July 2, 2024. GCL Technology is one of the world’s largest makers of polysilicon, a key … [+3337 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Tom Warren",
+      "title": "AMD’s Ryzen 9 9950X3D is ‘the world’s best processor for gamers and creators’",
+      "description": "AMD is launching two new X3D processors to take on Intel. The Ryzen 9 9950X3D looks set to beat Intel’s Core Ultra 9 285K in both gaming and creator apps.",
+      "url": "https://www.theverge.com/2025/1/6/24336229/amd-ryzen-9-9950x3d-specs-release-date-ces-2025",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/8EZFeD67yprzbYU1Z29njAMaCPk=/0x0:2640x1760/1200x628/filters:focal(1320x880:1321x881)/cdn.vox-cdn.com/uploads/chorus_asset/file/25817495/ryzen99950x3d.jpg",
+      "publishedAt": "2025-01-06T19:45:00Z",
+      "content": "AMDs Ryzen 9 9950X3D is the worlds best processor for gamers and creators\r\nAMDs Ryzen 9 9950X3D is the worlds best processor for gamers and creators\r\n / AMD claims its latest flagship Ryzen processor… [+2661 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Chris Welch",
+      "title": "LG will bring its wireless TV tech to Mini LED models in 2025",
+      "description": "LG’s QNED Evo series will soon feature the impressive Zero Connect Box that debuted at CES 2023, which wirelessly transmits 4K video at up to 144Hz to the TV.",
+      "url": "https://www.theverge.com/2024/12/18/24324162/lg-qned-mini-led-zero-connect-box-wireless-tv",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/8s6bV0AuAZigzvcKi7kJoOjmM1k=/0x0:1100x726/1200x628/filters:focal(550x363:551x364)/cdn.vox-cdn.com/uploads/chorus_asset/file/25795870/qned.jpg",
+      "publishedAt": "2024-12-18T14:31:22Z",
+      "content": "LG will bring its wireless TV tech to Mini LED models in 2025\r\nLG will bring its wireless TV tech to Mini LED models in 2025\r\n / The companys Zero Connect Box isnt exclusive to OLED anymore. And AI w… [+2831 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Andrew J. Hawkins",
+      "title": "Trump is probably going to kill the crash reporting rule that made Tesla look bad",
+      "description": "Donald Trump’s transition team is considering getting rid of a rule that requires Tesla and other automakers to report crashes involving fully and partially autonomous vehicles.",
+      "url": "https://www.theverge.com/2024/12/13/24320515/trump-tesla-crash-reporting-adas-nhtsa-sgo",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/Q9JlAiDfTNIm19GuOGn8mCqESNA=/0x0:4287x2583/1200x628/filters:focal(2144x1292:2145x1293)/cdn.vox-cdn.com/uploads/chorus_asset/file/25788541/1032138698.jpg",
+      "publishedAt": "2024-12-13T18:09:09Z",
+      "content": "Trump is probably going to kill the crash reporting rule that made Tesla look bad\r\nTrump is probably going to kill the crash reporting rule that made Tesla look bad\r\n / Under the NHTSA rule, Tesla wa… [+3091 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jay Peters",
+      "title": "Nvidia’s AI NPCs are no longer chatbots — they’re your new PUBG teammate",
+      "description": "At CES 2025, Nvidia showed how its AI ACE characters can be can be “autonomous game characters,” including as an AI teammate in PUBG at some point this year.",
+      "url": "https://www.theverge.com/2025/1/6/24337949/nvidia-ace-ai-npcs-pubg-ally-teammate",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/JyxwqSTRtjAhC4UNm1QHA3I37EU=/0x0:2560x1440/1200x628/filters:focal(1280x720:1281x721)/cdn.vox-cdn.com/uploads/chorus_asset/file/25820669/videoframe_62840.png",
+      "publishedAt": "2025-01-07T04:32:22Z",
+      "content": "Nvidias AI NPCs are no longer chatbots theyre your new PUBG teammate\r\nNvidias AI NPCs are no longer chatbots theyre your new PUBG teammate\r\n / PUBG is getting AI teammates powered by Nvidia technolog… [+2677 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "2024-12-12T16:00:01Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "2025-01-08T21:48:04Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hackaday"
+      },
+      "author": "Maya Posch",
+      "title": "The Hovercraft Revolution and Finding the Right Niche for a Technology",
+      "description": "In the world of transportation, some technologies may seem to make everything else appear obsolete, whether it concerns airplanes, magnetic levitation or propelling vehicles and craft over a cushion of …read more",
+      "url": "https://hackaday.com/2024/12/11/the-hovercraft-revolution-and-finding-the-right-niche-for-a-technology/",
+      "urlToImage": "https://hackaday.com/wp-content/uploads/2024/04/Hovercraft.jpg",
+      "publishedAt": "2024-12-11T15:00:49Z",
+      "content": "In the world of transportation, some technologies may seem to make everything else appear obsolete, whether it concerns airplanes, magnetic levitation or propelling vehicles and craft over a cushion … [+8777 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Slashdot.org"
+      },
+      "author": "msmash",
+      "title": "'The Paper Passport Is Dying'",
+      "description": "Facial recognition technology is poised to replace traditional passports globally, marking the biggest shift in travel documentation since World War 1. Airports across Finland, Canada, Netherlands, UAE, UK, Italy, US, and India are testing passport-free syste…",
+      "url": "https://tech.slashdot.org/story/24/12/27/124245/the-paper-passport-is-dying",
+      "urlToImage": "https://a.fsdn.com/sd/topics/technology_64.png",
+      "publishedAt": "2024-12-27T12:05:00Z",
+      "content": "Facial recognition technology is poised to replace traditional passports globally, marking the biggest shift in travel documentation since World War 1. Airports across Finland, Canada, Netherlands, U… [+453 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Slashdot.org"
+      },
+      "author": "msmash",
+      "title": "UK Develops Quantum Clock To Cut Military GPS Dependence",
+      "description": "Britain's Defence Science and Technology Laboratory has developed a quantum atomic clock that will lose less than one second over billions of years, the Ministry of Defence announced on Thursday. \n\nThe UK-built device aims to reduce military reliance on GPS t…",
+      "url": "https://news.slashdot.org/story/25/01/02/1733235/uk-develops-quantum-clock-to-cut-military-gps-dependence",
+      "urlToImage": "https://a.fsdn.com/sd/topics/uk_64.png",
+      "publishedAt": "2025-01-02T17:33:00Z",
+      "content": "Britain's Defence Science and Technology Laboratory has developed a quantum atomic clock that will lose less than one second over billions of years, the Ministry of Defence announced on Thursday.The … [+505 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "VentureBeat"
+      },
+      "author": "Carl Franzen",
+      "title": "OpenAI begins 2025 with massive hype for AGI, superintelligence",
+      "description": "The AGI and superintelligence hype has hit a fever pitch unlike any I've seen in my 15 years writing about technology.",
+      "url": "https://venturebeat.com/ai/openai-begins-2025-with-massive-hype-for-agi-superintelligence/",
+      "urlToImage": "https://venturebeat.com/wp-content/uploads/2025/01/this-way-agi.png?w=1024?w=1200&strip=all",
+      "publishedAt": "2025-01-06T22:59:51Z",
+      "content": "Join our daily and weekly newsletters for the latest updates and exclusive content on industry-leading AI coverage. Learn More\r\nMuch like how 2024 ended in New York City, the 2025 AI news cycle has s… [+6003 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Thomas Maxwell",
+      "title": "Ukraine Is Using Millions of Hours of Drone Footage to Train AI for Warfare",
+      "description": "The country's defense ministry has said it is able to spot 12,000 Russian pieces of equipment a week using AI identification tools.",
+      "url": "https://gizmodo.com/ukraine-is-using-millions-of-hours-of-drone-footage-to-train-ai-for-warfare-2000541633",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/12/GettyImages-2042241245.jpg",
+      "publishedAt": "2024-12-20T18:30:16Z",
+      "content": "The ongoing Russia-Ukraine conflict marks possibly the first truly AI war, with both sides having come to rely on small drones to conduct reconnaissance, identify targets, and even drop lethal bombs … [+4127 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Brittany Vincent",
+      "title": "My New Year’s Resolution Is a Clean Home With This 50% Off iRobot Roomba Robot Vacuum and Mop",
+      "description": "It's time to let the robots handle all the dirty work so you can hang out and just relax for a new year.",
+      "url": "https://gizmodo.com/my-new-years-resolution-is-a-clean-home-with-this-50-off-irobot-roomba-robot-vacuum-and-mop-2000544640",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/12/irobotroombalg.jpg",
+      "publishedAt": "2025-01-02T17:30:17Z",
+      "content": "Remember when keeping your floors clean meant juggling multiple devices and still never quite achieving that perfect result? The iRobot Roomba Combo j5+ represents a dramatic shift in home cleaning t… [+2361 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jay Peters",
+      "title": "Tim Cook is the latest tech CEO to meet with Trump at Mar-a-Lago",
+      "description": "Apple CEO Tim Cook will be meeting Friday with President-elect Donald Trump at his Mar-a-Lago resort in Florida. It’s reportedly Cook’s first time meeting with Trump since the election.",
+      "url": "https://www.theverge.com/2024/12/13/24320839/donald-trump-tim-cook-mar-a-lago",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/DM0L8ys_gIpl7dlhGmH-TGzHkI8=/0x0:3358x2239/1200x628/filters:focal(1679x1120:1680x1121)/cdn.vox-cdn.com/uploads/chorus_asset/file/25789406/1128958257.jpg",
+      "publishedAt": "2024-12-14T00:24:15Z",
+      "content": "Tim Cook is the latest tech CEO to meet with Trump at Mar-a-Lago\r\nTim Cook is the latest tech CEO to meet with Trump at Mar-a-Lago\r\n / Cook established a personal relationship with the President-elec… [+1401 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jay Peters",
+      "title": "ChatGPT Projects are fancy folders for your AI chats",
+      "description": "OpenAI is rolling out a feature called “Projects” to ChatGPT that gives you folders to organize things you’re working on while using the AI chatbot.",
+      "url": "https://www.theverge.com/2024/12/13/24320800/openai-chatgpt-projects-folders-ai-chats",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/e8Qz8ptixZYdj7hdG-9Z6ZgJDB8=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25462046/STK155_OPEN_AI_CVirginia_2_C.jpg",
+      "publishedAt": "2024-12-13T22:50:09Z",
+      "content": "ChatGPT Projects are fancy folders for your AI chats\r\nChatGPT Projects are fancy folders for your AI chats\r\n / OpenAI is making it easier to keep track of things youre working on in ChatGPT.\r\nByJay P… [+1549 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Emma Roth",
+      "title": "YouTube says that soon, its tech will be able to find AI copies of celebs and creators",
+      "description": "YouTube is partnering with the Creative Artists Agency to help celebrities and creators manage AI-generated content containing their likenesses on the platform.",
+      "url": "https://www.theverge.com/2024/12/17/24323558/youtube-detect-remove-creators-ai-likeness",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/gUzfom5WKqgNXz0HDpt4gC5j_3k=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23986638/acastro_STK092_02.jpg",
+      "publishedAt": "2024-12-17T20:44:19Z",
+      "content": "YouTube says that soon, its tech will be able to find AI copies of celebs and creators\r\nYouTube says that soon, its tech will be able to find AI copies of celebs and creators\r\n / YouTube is partnerin… [+1455 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jay Peters",
+      "title": "Zuckerberg says he’s moving Meta moderators to Texas because California seems too ‘biased’",
+      "description": "Meta CEO Mark Zuckerberg says that the company will be moving its content moderation teams from California to Texas to “help remove the concern that biased employees are overly censoring content.”",
+      "url": "https://www.theverge.com/2025/1/7/24338305/meta-mark-zuckerberg-moving-meta-moderators-texas-california-bias",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/ONguT-Dzop5q8lBMzWwnxiUuRhA=/0x0:2040x1360/1200x628/filters:focal(1274x678:1275x679)/cdn.vox-cdn.com/uploads/chorus_asset/file/25546252/STK169_Mark_Zuckerburg_CVIRGINIA_D.jpg",
+      "publishedAt": "2025-01-07T18:32:55Z",
+      "content": "Zuckerberg says hes moving Meta moderators to Texas because California seems too biased\r\nZuckerberg says hes moving Meta moderators to Texas because California seems too biased\r\n / As we work to prom… [+1775 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Emma Roth",
+      "title": "LG’s new lamp puts a mini garden inside your home",
+      "description": "LG has developed a new lamp that doubles as an indoor garden. The device uses downward-facing lighting to grow plants during the day, while lighting up your home at night.",
+      "url": "https://www.theverge.com/2024/12/26/24329562/lg-lamp-indoor-garden",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/X7sfUtGWPejVxophZ0tFA1cm__g=/0x0:2700x1765/1200x628/filters:focal(1350x883:1351x884)/cdn.vox-cdn.com/uploads/chorus_asset/file/25805815/lg_lamp_garden.jpg",
+      "publishedAt": "2024-12-26T15:18:02Z",
+      "content": "LGs new lamp puts a mini garden inside your home\r\nLGs new lamp puts a mini garden inside your home\r\n / Now you can light up your house and grow plants at the same time.\r\nByEmma Roth, a news writer wh… [+1404 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Emma Roth",
+      "title": "Dell’s new monitor tracks your head to beam audio to your ears",
+      "description": "At CES 2025, Dell revealed its new 32 Plus 4K QD-OLED monitor, which uses head tracking to beam audio to each of your ears.",
+      "url": "https://www.theverge.com/2025/1/6/24334913/dell-32-plus-monitor-head-tracking-beamforming-audio-ces-2025",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/VOhtEKoD9_pO-LEgwC6mwrarihc=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25815165/247459_Dell_CES_2025_Plus_32_4K_QD_OLED_monitor_ADiBenedetto_0001.jpg",
+      "publishedAt": "2025-01-06T19:45:00Z",
+      "content": "Dells new monitor tracks your head to beam audio to your ears\r\nDells new monitor tracks your head to beam audio to your ears\r\n / The 32-inch 4K OLED monitor adjusts the sound from its speakers based … [+1488 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Lawrence Bonk",
+      "title": "Hisense's HT Saturn speakers feature wireless Dolby Atmos and room calibration",
+      "description": "Hisense has officially unveiled its new HT Saturn audio system just ahead of CES, and it's a doozy. This five-piece surround system includes four identical satellite units and a single 6.5-inch subwoofer. All told, it ships with 13 speakers spread across the …",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_f66d23e5-668e-46cf-92ca-5bffe2be14c5",
+      "urlToImage": null,
+      "publishedAt": "2024-12-20T19:29:52Z",
+      "content": "If you click 'Accept all', we and our partners, including 237 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
+    },
+    {
+      "source": {
+        "id": "time",
+        "name": "Time"
+      },
+      "author": "BIANCA VÁZQUEZ TONESS / AP",
+      "title": "U.S. Agencies Should Use Advanced Technology to Identify Mysterious Drones, Schumer Says",
+      "description": "U.S. Senator Chuck Schumer is urging the federal government to deploy better drone-tracking technology.",
+      "url": "https://time.com/7202379/us-mysterious-drones-how-to-identify/",
+      "urlToImage": "https://api.time.com/wp-content/uploads/2024/12/AP24348774722376.jpg?quality=85&w=1200&h=628&crop=1",
+      "publishedAt": "2024-12-15T19:12:28Z",
+      "content": "After weeks of fear and bewilderment about the drones buzzing over parts of New York and New Jersey, U.S. Senator Chuck Schumer is urging the federal government to deploy better drone-tracking techno… [+2891 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "2024-12-19T15:58:51Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "2025-01-06T09:03:00Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Reuters",
+      "title": "Qcells says technology breakthrough could reduce space needed for solar panels",
+      "description": "Space is among the most pressing issues for the rapidly growing solar power industry, which has encountered growing  opposition in some parts of the United...",
+      "url": "https://www.yahoo.com/tech/qcells-says-technology-breakthrough-could-170544801.html",
+      "urlToImage": "https://media.zenfs.com/en/reuters.com/a6b261cb94e0b1f3174527cd165db5ee",
+      "publishedAt": "2024-12-18T17:05:44Z",
+      "content": "Yahoo is using AI to generate takeaways from this article. This means the info may not always match what's in the article. Reporting mistakes helps us improve the experience.Generate Key Takeaways\r\n(… [+2912 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "2024-12-18T19:36:13Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "2025-01-06T01:00:24Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "2025-01-06T01:00:07Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "2025-01-10T19:28:42Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "2024-12-13T21:10:31Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "POWER magazine"
+      },
+      "author": "Contributed Content",
+      "title": "Advancements in Electrolyzer Technology Could Make Green Hydrogen Viable Sooner Than You Think",
+      "description": "Historically, the mass production of green hydrogen has not been viewed as a viable alternative energy solution for our climate crisis. But recent...",
+      "url": "https://www.powermag.com/advancements-in-electrolyzer-technology-could-make-green-hydrogen-viable-sooner-than-you-think/",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/M880MjFq54CYKmZqNsflSA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04NDc-/https://media.zenfs.com/en/power_magazine_984/cddec8738b4d6b4879b141776976d542",
+      "publishedAt": "2024-12-18T22:19:01Z",
+      "content": "Yahoo is using AI to generate takeaways from this article. This means the info may not always match what's in the article. Reporting mistakes helps us improve the experience.Generate Key Takeaways\r\nH… [+5583 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": null,
+      "title": "These Powered Exoskeleton Pants Gave Me a MASSIVE Boost! video",
+      "description": "Ever wanted to try a pair of power pants? Now you can. Mo/Go is part of a new category of wearable technology designed to give you a boost on hikes and climbing stairs. Skip has partnered with Arcteryx to integrate its powered exoskeleton into a pair of hikin…",
+      "url": "https://www.cnet.com/videos/these-powered-exoskeleton-pants-gave-me-a-massive-boost/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/a1b13141a3e7e49c153b58bc580b330423514f3c/hub/2024/12/20/76b4c093-0784-4d1f-ad5c-2bc4cd0ff63c/exoskeleton-02.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2024-12-20T16:00:02Z",
+      "content": ""
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hackaday"
+      },
+      "author": "Bryan Cockfield",
+      "title": "Chaotic System Cooks Meat Evenly",
+      "description": "For better or worse, a lot of human technology is confined to fewer dimensions than the three we can theoretically move about in. Cars and trains only travel two dimensionally with limited exceptio…",
+      "url": "https://hackaday.com/2024/12/11/chaotic-system-cooks-meat-evenly/",
+      "urlToImage": "https://hackaday.com/wp-content/uploads/2024/12/gyroscope-main.png",
+      "publishedAt": "2024-12-12T00:00:02Z",
+      "content": "For better or worse, a lot of human technology is confined to fewer dimensions than the three we can theoretically move about in. Cars and trains only travel two dimensionally with limited exceptions… [+1604 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Jeremy White",
+      "title": "The Electric Explorer’s Nightmare Launch Shows Everything Ford Gets Right and Wrong About EVs",
+      "description": "Plagued by delays, tied to a rival’s electric platform, yet somehow still being clever and innovative, Ford’s European EV experiment embodies the automaker’s failure to commit to electric cars.",
+      "url": "https://www.wired.com/story/ford-electric-explorer-ev-test-drive/",
+      "urlToImage": "https://media.wired.com/photos/6763277ec043a0dcb0432abc/191:100/w_1280,c_limit/ford-gear.jpg",
+      "publishedAt": "2024-12-21T14:30:00Z",
+      "content": "Then, in August, just when Ford Europe thought the birth of its pair of EU EVs couldn't hit any more snags, Ford announced it is stepping back from electric vehicles, with CEO Jim Farley saying that,… [+2099 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Reuters",
+      "title": "Apple working with Broadcom to develop AI chip, the Information reports",
+      "description": "The reported move would align the iPhone maker with other big technology companies that have developed their own chips to power compute-heavy AI services and...",
+      "url": "https://finance.yahoo.com/news/apple-working-ai-chip-broadcom-141956432.html",
+      "urlToImage": "https://media.zenfs.com/en/reuters-finance.com/357fd0ede7d93a124baf71c8fcd7fc48",
+      "publishedAt": "2024-12-11T14:19:56Z",
+      "content": "(Reuters) -Apple is working with Broadcom to develop its first server chip specially designed for artificial intelligence processing, the Information reported on Wednesday, citing people with direct … [+1833 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Topeka Capital-Journal"
+      },
+      "author": "Tim Hrenchir and Stacey Saldanha-Olson, Topeka Capital-Journal",
+      "title": "Washburn Tech receives $3 million gift from Topekans Bruce and Theresa McPherson",
+      "description": "Washburn University has received a $3 million gift from longtime supporters Bruce and Theresa McPherson to benefit Washburn Institute of Technology.",
+      "url": "https://www.cjonline.com/story/news/education/2024/12/13/washburn-tech-receives-3-million-gift-from-bruce-theresa-mcpherson/76958515007/",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/am1qoc1bqQtEpcbe0PBk6w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD0xNjAw/https://media.zenfs.com/en/the-topeka-capital-journal/338dc8b4c26ff5f0eb95505bd0246b68",
+      "publishedAt": "2024-12-13T15:22:55Z",
+      "content": "Washburn University received a $3 million gift from longtime supporters Bruce and Theresa McPherson, of Topeka, to benefit Washburn Institute of Technology, also known as Washburn Tech, it announced … [+1372 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Qiaoyi Li and Brenda Goh",
+      "title": "Beijing unveils plans to boost driverless vehicle use in capital",
+      "description": "China's capital Beijing passed new regulations on Tuesday to encourage autonomous driving technology in the city, with authorities planning to eventually...",
+      "url": "https://www.yahoo.com/tech/beijing-unveils-plans-boost-driverless-051938845.html",
+      "urlToImage": "https://media.zenfs.com/en/reuters.com/3cc3e68c2627d2c3b751b189e2d74395",
+      "publishedAt": "2024-12-31T05:19:38Z",
+      "content": "Yahoo is using AI to generate takeaways from this article. This means the info may not always match what's in the article. Reporting mistakes helps us improve the experience.Generate Key Takeaways\r\nB… [+1905 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Slashdot.org"
+      },
+      "author": "msmash",
+      "title": "China Slashes SO2 Emissions Two-Thirds in 15 Years",
+      "description": "China's sulfur dioxide emissions have fallen by more than two-thirds over the past 15 years through strict coal plant regulations and desulfurization technology, according to Community Emissions Data System data. Emissions peaked in mid-2000s after steep rise…",
+      "url": "https://news.slashdot.org/story/25/01/03/1319251/china-slashes-so2-emissions-two-thirds-in-15-years",
+      "urlToImage": "https://a.fsdn.com/sd/topics/china_64.png",
+      "publishedAt": "2025-01-03T13:17:00Z",
+      "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way."
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Lily Hay Newman",
+      "title": "US Treasury Department Admits It Got Hacked by China",
+      "description": "Treasury says hackers accessed “certain unclassified documents” in a “major” breach, but experts believe the attack’s impacts could prove to be more significant as new details emerge.",
+      "url": "https://www.wired.com/story/us-treasury-hacked-by-china/",
+      "urlToImage": "https://media.wired.com/photos/67736127aaa47f99e0ab6d3a/191:100/w_1280,c_limit/2191220960",
+      "publishedAt": "2024-12-31T03:29:57Z",
+      "content": "I cannot believe that we're seeing command injection vulnerabilities in 2024 in any products, let alone a secure remote access product that's supposed to have additional vetting for use by the US gov… [+2027 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Justine Calma",
+      "title": "Joe Biden’s national climate adviser sees AI as a ‘massive opportunity’",
+      "description": "The Verge spoke with national climate adviser Ali Zaidi about what’s ahead for clean energy technologies as the Biden administration comes to a close.",
+      "url": "https://www.theverge.com/2025/1/10/24339455/national-climate-adviser-ali-zaidi-interview-biden-trump-energy-transition",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/MLW5XqqNbMkemCGZNODuM6BK4F8=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25824420/257499_AI_climate_Q_A_CVirginia.jpg",
+      "publishedAt": "2025-01-10T17:00:00Z",
+      "content": "Joe Bidens national climate adviser sees AI as a massive opportunity\r\nJoe Bidens national climate adviser sees AI as a massive opportunity\r\n / National climate adviser Ali Zaidi is still optimistic a… [+11161 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Slashdot.org"
+      },
+      "author": "BeauHD",
+      "title": "China Proposes Further Export Curbs On Battery, Critical Minerals Tech",
+      "description": "An anonymous reader quotes a report from Reuters: China's commerce ministry has proposed export restrictions on some technology used to make battery components and process critical minerals lithium and gallium, a document, opens new tab issued on Thursday sho…",
+      "url": "https://tech.slashdot.org/story/25/01/03/223226/china-proposes-further-export-curbs-on-battery-critical-minerals-tech",
+      "urlToImage": "https://a.fsdn.com/sd/topics/china_64.png",
+      "publishedAt": "2025-01-04T03:30:00Z",
+      "content": "China's commerce ministry has proposed export restrictions on some technology used to make battery components and process critical minerals lithium and gallium, a document, opens new tab issued on Th… [+886 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hackaday"
+      },
+      "author": "Bryan Cockfield",
+      "title": "A Modern Battery For a Classic Laptop",
+      "description": "Aside from their ability to operate fairly well in extreme temperatures, lead-acid batteries don’t have many benefits compared to more modern battery technology. They’re heavy, not particularly energy dense, have …read more",
+      "url": "https://hackaday.com/2025/01/02/a-modern-battery-for-a-classic-laptop/",
+      "urlToImage": "https://hackaday.com/wp-content/uploads/2025/01/hp-battery-main.jpg",
+      "publishedAt": "2025-01-02T21:00:12Z",
+      "content": "Aside from their ability to operate fairly well in extreme temperatures, lead-acid batteries don’t have many benefits compared to more modern battery technology. They’re heavy, not particularly energ… [+1638 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Ted.com"
+      },
+      "author": "Eugenia Kuyda, contact@ted.com (TED)",
+      "title": "Can AI companions help heal loneliness? | Eugenia Kuyda",
+      "description": "AI companions could either be the cure to our loneliness epidemic … or humanity's final downfall, says Eugenia Kuyda, creator of Replika — an app that allows you to create AI friends. She explores the potential of this technology to either exacerbate isolatio…",
+      "url": "https://www.ted.com/talks/eugenia_kuyda_can_ai_companions_help_heal_loneliness",
+      "urlToImage": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_143156/985232d8-a348-4cfb-afc1-ab002a138f85/EugeniaKuyda_2024S-embed.jpg?u%5Br%5D=2&u%5Bs%5D=0.5&u%5Ba%5D=0.8&u%5Bt%5D=0.03&quality=82c=1050%2C550&w=1050",
+      "publishedAt": "2025-01-08T15:56:40Z",
+      "content": "TED is supported by ads and partners00:00"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hackaday"
+      },
+      "author": "Al Williams",
+      "title": "Tech in Plain Sight: Incandescent Bulbs",
+      "description": "While they are dying out, you can still find incandescent bulbs. While these were once totally common, they’ve been largely replaced by LEDs and other lighting technology. However, you still …read more",
+      "url": "https://hackaday.com/2024/12/26/tech-in-plain-sight-incandescent-bulbs/",
+      "urlToImage": "https://hackaday.com/wp-content/uploads/2024/12/pexels-daniel-reche-718241-1556704.jpg",
+      "publishedAt": "2024-12-26T15:00:30Z",
+      "content": "While they are dying out, you can still find incandescent bulbs. While these were once totally common, they’ve been largely replaced by LEDs and other lighting technology. However, you still see a nu… [+7871 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hackaday"
+      },
+      "author": "Al Williams",
+      "title": "High Performance RISC-V",
+      "description": "From the Institute of Computing Technology division of the Chinese Academy of Sciences and Peng Cheng Laboratory comes a high-performance and well-documented RISC-V core called XiangShan. In the Git repository, …read more",
+      "url": "https://hackaday.com/2025/01/03/high-performance-risc-v/",
+      "urlToImage": "https://hackaday.com/wp-content/uploads/2025/01/cpu.png",
+      "publishedAt": "2025-01-04T06:00:18Z",
+      "content": "From the Institute of Computing Technology division of the Chinese Academy of Sciences and Peng Cheng Laboratory comes a high-performance and well-documented RISC-V core called XiangShan.\r\nIn the Git… [+1280 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hackaday"
+      },
+      "author": "Al Williams",
+      "title": "Single Crystal Electrode Lithium Ion Batteries Last a Long Time",
+      "description": "Researchers have been testing a new type of lithium ion battery that uses single-crystal electrodes. Over several years, they’ve found that the technology could keep 80% of its capacity after …read more",
+      "url": "https://hackaday.com/2024/12/16/single-crystal-electrode-lithium-ion-batteries-last-a-long-time/",
+      "urlToImage": "https://hackaday.com/wp-content/uploads/2024/12/lion.png",
+      "publishedAt": "2024-12-16T09:00:51Z",
+      "content": "Researchers have been testing a new type of lithium ion battery that uses single-crystal electrodes. Over several years, they’ve found that the technology could keep 80% of its capacity after 20,000 … [+989 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Thomas Maxwell",
+      "title": "OpenAI Shuts Down Developer Who Made AI-Powered Gun Turret",
+      "description": "The DIY robot used ChatGPT's Realtime API to respond to commands to aim and fire a rifle.",
+      "url": "https://gizmodo.com/openai-shuts-down-developer-who-made-ai-powered-gun-turret-2000548092",
+      "urlToImage": "https://gizmodo.com/app/uploads/2025/01/AI_gun_turret.png",
+      "publishedAt": "2025-01-09T18:15:51Z",
+      "content": "OpenAI has cut off a developer who built a device that could respond to ChatGPT queries to aim and fire an automated rifle. The device went viral after a video on Reddit showed its developer reading … [+3478 chars]"
+    },
+    {
+      "source": {
+        "id": "time",
+        "name": "Time"
+      },
+      "author": "Isabella Wandermurem",
+      "title": "The True Story Behind Netflix’s Gripping Swedish Crime Drama The Breakthrough",
+      "description": "The Swedish true crime drama tells the story of a cold case that went unsolved for 16 years and the technology that led to its resolution.",
+      "url": "https://time.com/7205773/the-breakthrough-true-story-netflix/",
+      "urlToImage": "https://api.time.com/wp-content/uploads/2025/01/Breakthrough_02A5465_Nadja-Hallstrom_Netflix.jpg?quality=85&w=1200&h=628&crop=1",
+      "publishedAt": "2025-01-10T16:18:31Z",
+      "content": "Netflixs The Breakthrough is a gripping Swedish miniseries that brings to life one of Europes most perplexing and haunting criminal cases of this century: a 2004 double murder in the countrys souther… [+5725 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Andrew J. Hawkins",
+      "title": "The maker of the electric USPS truck is also building garbage robots and EV firefighters",
+      "description": "Defense contractor Oshkosh has a plan to make a fleet of specialized EVs for the future, including the next electric USPS delivery truck,",
+      "url": "https://www.theverge.com/2025/1/7/24337602/oshkosh-usps-ev-fire-garbage-robot",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/k5Pkpe9WQRWBxuSvfxRL2LWkIuw=/0x0:2048x1365/1200x628/filters:focal(1024x683:1025x684)/cdn.vox-cdn.com/uploads/chorus_asset/file/25820592/Volterra_Striker_OshkoshAirportProducts_2022_242284836.jpeg",
+      "publishedAt": "2025-01-07T22:00:00Z",
+      "content": "The maker of the electric USPS truck is also building garbage robots and EV firefighters\r\nThe maker of the electric USPS truck is also building garbage robots and EV firefighters\r\n / Defense contract… [+3801 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jay Peters",
+      "title": "Acer’s latest all-in-one and mini PCs are getting Copilot Plus AI features",
+      "description": "Acer is revealing new all-in-one and mini PCs at CES 2025, and they’re among the first non-laptop computers to get Copilot Plus AI features.",
+      "url": "https://www.theverge.com/2025/1/6/24336404/acer-aspire-s-ai-mini-pc-copilot-plus-specs-price-ces",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/mR2alDdagRN5LmZNiay-X0nHv7I=/0x0:3000x2000/1200x628/filters:focal(1908x817:1909x818)/cdn.vox-cdn.com/uploads/chorus_asset/file/25817969/Aspire_S24_AI___S27_AI_lifestyle_1.jpg",
+      "publishedAt": "2025-01-06T19:45:00Z",
+      "content": "Acers latest all-in-one and mini PCs are getting Copilot Plus AI features\r\nAcers latest all-in-one and mini PCs are getting Copilot Plus AI features\r\n / The computers have something called Acer Intel… [+2066 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Quentyn Kennemer",
+      "title": "Blue Ghost Lunar Lander scheduled to launch on January 15th",
+      "description": "SpaceX and Firefly are teaming up to send 10 NASA instruments to a region of the moon that hasn’t been visited since 1976.",
+      "url": "https://www.theverge.com/2025/1/7/24338415/firefly-blue-ghost-1-moon-landing-spacex-nasa-mission",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/q5BLNq_hMtDc1V9N12dKRwX7ClM=/0x0:1500x831/1200x628/filters:focal(750x416:751x417)/cdn.vox-cdn.com/uploads/chorus_asset/file/25821488/firefly_blue_ghost_1.png",
+      "publishedAt": "2025-01-07T20:41:14Z",
+      "content": "Blue Ghost Lunar Lander scheduled to launch on January 15th\r\nBlue Ghost Lunar Lander scheduled to launch on January 15th\r\n / Itll carry a bunch of NASA probes to help us learn more about the moon and… [+1996 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Umar Shakir",
+      "title": "Honda and Nissan explore merger to navigate uncertain EV future",
+      "description": "Honda and Nissan are in talks to merge as a potential solution to their struggles to keep up with China and Tesla.",
+      "url": "https://www.theverge.com/2024/12/17/24323448/honda-nissan-merger-talks-memorandum-ev",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/CxV22NTNFX09jy_arqtM9YYMG8g=/0x0:5205x3470/1200x628/filters:focal(2603x1735:2604x1736)/cdn.vox-cdn.com/uploads/chorus_asset/file/25794646/c240315_001H.jpg",
+      "publishedAt": "2024-12-17T19:17:21Z",
+      "content": "Honda and Nissan explore merger to navigate uncertain EV future\r\nHonda and Nissan explore merger to navigate uncertain EV future\r\n / The two Japanese auto giants are figuring out logistics including … [+2298 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jess Weatherbed",
+      "title": "Everyone’s favorite office monitor is getting even better",
+      "description": "The 27-inch and 32-inch Dell UltraSharp 4K Thunderbolt displays announced at CES have been updated with new IPS panels that provide 120Hz refresh rates",
+      "url": "https://www.theverge.com/2025/1/6/24336649/dell-ultrasharp-4k-office-monitors-120hz-price-availability",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/Wf3FtiSCjH9sIuuXBULkM8lDMT0=/0x0:5000x2813/1200x628/filters:focal(2500x1407:2501x1408)/cdn.vox-cdn.com/uploads/chorus_asset/file/25818371/Dell_UltraSharp_32_4K_Thunderbolt_Hub_Monitor_Lifestyle_3.jpg",
+      "publishedAt": "2025-01-06T19:45:00Z",
+      "content": "Everyones favorite office monitor is getting even better\r\nEveryones favorite office monitor is getting even better\r\n / Dells office-standard 27-inch 4K monitor now does 120Hz\r\nByJess Weatherbed, a ne… [+2443 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Slashdot.org"
+      },
+      "author": "msmash",
+      "title": "Geoffrey Hinton Says There is 10-20% Chance AI Will Lead To Human Extinction in 30 Years",
+      "description": "The British-Canadian computer scientist often touted as a \"godfather\" of artificial intelligence has shortened the odds of AI wiping out humanity over the next three decades, warning the pace of change in the technology is \"much faster\" than expected. From a …",
+      "url": "https://slashdot.org/story/24/12/27/1723235/geoffrey-hinton-says-there-is-10-20-chance-ai-will-lead-to-human-extinction-in-30-years",
+      "urlToImage": "https://a.fsdn.com/sd/topics/ai_64.png",
+      "publishedAt": "2024-12-27T17:25:00Z",
+      "content": "Have yet to hear a cogent explanation of how exactly AI is going to ACTUALLY bring about any kind of mass death, much less our doom.\r\nEven as connected as everything is, there's still just way too ma… [+314 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Mariella Moon",
+      "title": "LG's OLED evo TVs for 2025 come with AI and a 165Hz refresh rate",
+      "description": "LG has unveiled its OLED evo TV lineup for 2025 and is showing them off at CES this year, along with its other home entertainment products. The new models are powered by the company's latest α (Alpha) 11 AI processor Gen2, with deep learning algorithms that g…",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_03559ed0-38c0-481a-a02d-7ad1063149bd",
+      "urlToImage": null,
+      "publishedAt": "2025-01-05T20:00:37Z",
+      "content": "If you click 'Accept all', we and our partners, including 238 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Mat Smith",
+      "title": "The Morning After: US Supreme Court agrees to hear TikTok’s ban appeal",
+      "description": "The US Supreme Court has agreed to hear TikTok owner ByteDance’s appeal of a law that could ban the app. The Protecting Americans from Foreign Adversary Controlled Applications Act is set to go into effect on January 19, the day before President-elect Donald …",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_ab3df09c-9f63-45d4-879a-2873929d60c0",
+      "urlToImage": null,
+      "publishedAt": "2024-12-19T12:15:50Z",
+      "content": "If you click 'Accept all', we and our partners, including 237 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Amy Skorheim",
+      "title": "Gemini AI is coming to Google TV devices in 2025, making them easier to talk to",
+      "description": "This week at CES, Google presented an early look at new software and hardware upgrades coming to Google TV devices. The new features include the integration of Gemini, Google's AI model, to the Google Assistant, as well as a new ambient experience. New smart …",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_7ae93a2d-12c5-47be-b57c-3516b989f3a4",
+      "urlToImage": null,
+      "publishedAt": "2025-01-06T16:00:03Z",
+      "content": "If you click 'Accept all', we and our partners, including 238 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Github.com"
+      },
+      "author": "PWCT",
+      "title": "PWCT2: Programming Without Coding Technology – Written in Ring",
+      "description": "Programming Without Coding Technology - Second Generation, written in the Ring programming language! - PWCT/PWCT2",
+      "url": "https://github.com/PWCT/PWCT2",
+      "urlToImage": "https://opengraph.githubassets.com/4acb106a121f104f149fc14a546b008d464f5c4a1f21a408913c130bc3d82454/PWCT/PWCT2",
+      "publishedAt": "2025-01-03T16:23:49Z",
+      "content": "PWCT2 is a visual programming language designed for enjoying visual programming and interactive visualization.\r\nIt is written in the Ring programming language and supports importing and exporting Rin… [+1183 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Wordpress.com"
+      },
+      "author": null,
+      "title": "Towards a new kind of science and technology",
+      "description": "Reading the history of science and technology, one is struck by how important two branches of physics are: electricity and magnetism, and thermodynamics. The former is mostly how we conveniently pi…",
+      "url": "https://scottlocklin.wordpress.com/2024/12/18/towards-a-new-kind-of-science-and-technology/",
+      "urlToImage": "https://scottlocklin.wordpress.com/wp-content/uploads/2024/12/soho.jpg",
+      "publishedAt": "2024-12-19T01:10:16Z",
+      "content": "Reading the history of science and technology, one is struck by how important two branches of physics are: electricity and magnetism, and thermodynamics. The former is mostly how we conveniently pipe… [+12047 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "JULIE CARR SMYTH",
+      "title": "The killing of an 18-year-old Ohio woman was solved with DNA technology after 43 years",
+      "description": "A man who was shot dead last month as authorities attempted to serve him an indictment on federal gun charges has been identified as the killer of an 18-year...",
+      "url": "https://www.yahoo.com/news/killing-18-old-ohio-woman-194747378.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/TludO.h8LM.2mxH6fqtk9A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD0xODAw/https://media.zenfs.com/en/ap.org/e689a4becf1b754011bd80e96f02c49c",
+      "publishedAt": "2024-12-31T19:47:47Z",
+      "content": "Yahoo is using AI to generate takeaways from this article. This means the info may not always match what's in the article. Reporting mistakes helps us improve the experience.Generate Key Takeaways\r\nC… [+3978 chars]"
+    }
+  ]
+}

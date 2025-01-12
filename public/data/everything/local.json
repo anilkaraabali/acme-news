@@ -1,0 +1,1306 @@
+{
+  "status": "ok",
+  "totalResults": 64741,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "2024-12-12T15:30:44Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Andrew Liszewski",
+      "title": "LG’s lightweight Gram laptops get new Intel chips and offline AI features",
+      "description": "LG is upgrading its lightweight Gram laptop lineup with Intel Arrow Lake and Lunar Lake processors, plus LG AI software with both cloud and local offline features.",
+      "url": "https://www.theverge.com/2024/12/31/24332438/lg-gram-pro-laptops-2025-ai-copilot",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/75OplhMU4gH4f0GQd63PwfAT3k8=/0x0:1772x1182/1200x628/filters:focal(886x591:887x592)/cdn.vox-cdn.com/uploads/chorus_asset/file/25810931/lggram1.jpg",
+      "publishedAt": "2024-12-31T09:00:00Z",
+      "content": "LGs lightweight Gram laptops get new Intel chips and offline AI features\r\nLGs lightweight Gram laptops get new Intel chips and offline AI features\r\n / The new Gram lineup includes on-device AI-powere… [+2616 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Seven tourists in Fiji hospital with suspected alcohol poisoning",
+      "description": "Four of the tourists are Australian, according to local media reports.",
+      "url": "https://www.bbc.com/news/articles/cn08qdjwkkqo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5485/live/cdb11dd0-bad2-11ef-a2ca-e99d0c9a24e3.jpg",
+      "publishedAt": "2024-12-15T10:56:12Z",
+      "content": "Seven tourists in Fiji have been sent to hospital with suspected alcohol poisoning and are reported to be in a critical condition.\r\nIt is believed they drank cocktails at a resort bar on Saturday nig… [+694 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "India court resolves baby naming dispute, unites couple seeking divorce",
+      "description": "A local court gave the sparring couple a list of names to chose from ending the three-year-long dispute.",
+      "url": "https://www.bbc.com/news/articles/cx2nxdv4jv3o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/e932/live/6a87bb80-bd23-11ef-a076-5dfcdbd8d0db.jpg",
+      "publishedAt": "2024-12-20T03:28:53Z",
+      "content": "It is not unusual for couples to argue over naming their baby, but it rarely ends up in court. \r\nBut a couple from India's southern state of Karnataka found themselves needing the courts to intervene… [+2293 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Tributes paid to child killed in German Christmas market attack",
+      "description": "André Gleißner was a member of a nearby children's fire brigade, a local fire department said.",
+      "url": "https://www.bbc.com/news/articles/ced8x2zgw60o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/728b/live/4650b720-c07b-11ef-aff0-072ce821b6ab.png",
+      "publishedAt": "2024-12-22T15:51:18Z",
+      "content": "A local fire brigade has paid tribute to a nine-year-old killed in an attack on a German Christmas market.\r\nAndré Gleißner died after a car drove into a crowd of shoppers at the market in Magdeburg o… [+378 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Vigil held for 'shining star' Sara Sharif",
+      "description": "A representative of the local mosque says Sara's death is \"heartbreaking\".",
+      "url": "https://www.bbc.com/news/articles/ce90x40r327o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2794/live/e2b9f030-bb7c-11ef-ae8d-f1e4399953fa.jpg",
+      "publishedAt": "2024-12-16T07:48:21Z",
+      "content": "A vigil was held in Woking to remember Sara Sharif\r\nHundreds of people have attended a vigil held for 10-year-old Sara Sharif who was murdered by her father and stepmother.\r\nThe vigil, held in Woking… [+1992 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Several hundred feared dead after Mayotte cyclone",
+      "description": "A local official warns the full extent of the damage is still being assessed, with entire communities devastated.",
+      "url": "https://www.bbc.com/news/articles/c205wnvlqn6o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/47de/live/fef78ae0-bb23-11ef-b2f8-33751f33c44f.jpg",
+      "publishedAt": "2024-12-15T20:34:50Z",
+      "content": "Watch: Cars smashed and walls knocked down following Mayotte cyclone\r\nThe search for survivors on the Mayotte archipelago continued on Sunday after a cyclone devastated the French Indian Ocean territ… [+2365 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Katie Collins",
+      "title": "For Progress on Climate and Energy in 2025, Think Local",
+      "description": "As Trump and his anti-science agenda head for the White House, look to America's city and state leaders to drive climate action and prioritize clean energy.",
+      "url": "https://www.cnet.com/home/energy-and-utilities/for-progress-on-climate-and-energy-in-2025-think-local/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/5fa89cffd3d573f39b4cf70398e5bb4b3038a2d7/hub/2024/12/31/540a7c2e-63f9-445f-a311-5744bcce16a2/us-map-localized-energy-progress.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-01-03T13:00:00Z",
+      "content": "With its sprawling canopy of magnolia, dogwood, southern pine and oak trees, Atlanta is known as the city in the forest. The lush vegetation helps offset the pollution from the commuter traffic as pe… [+16751 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Tom Carter",
+      "title": "Tesla is launching a refreshed Model Y in China as it takes on local rivals",
+      "description": "Tesla unveiled a long-rumored refresh of the Model Y on Friday, but it is not yet on sale in the US.",
+      "url": "https://www.businessinsider.com/tesla-launches-refreshed-model-y-china-takes-on-local-rivals-2025-1",
+      "urlToImage": "https://i.insider.com/678107ba50dfd88e193dc5d1?width=1200&format=jpeg",
+      "publishedAt": "2025-01-10T12:04:13Z",
+      "content": "The Model Y is Tesla's best-selling vehicle.Patrick Pleul/picture alliance via Getty Images\r\n<ul><li>Tesla has launched a refreshed Model Y in China as it fights off fierce competition from local riv… [+2427 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "2024-12-17T17:52:36Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Hallie Gu",
+      "title": "China Launches Probe Into Beef Imports as Local Farmers Struggle",
+      "description": "(Bloomberg) -- China has started a probe into beef imports, to decide if a surge in shipments from overseas has hurt the domestic sector, the Ministry of...",
+      "url": "https://finance.yahoo.com/news/china-launches-probe-beef-imports-075604061.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/KkCYiwjO.lnjG0tyCCSGxA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/c979624918681f632ee5801a6317b4d9",
+      "publishedAt": "2024-12-27T07:56:04Z",
+      "content": "(Bloomberg) -- China has started a probe into beef imports, to decide if a surge in shipments from overseas has hurt the domestic sector, the Ministry of Commerce said Friday.\r\nMost Read from Bloombe… [+430 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "WHIO Staff",
+      "title": "Panda Express planning new location near local mall",
+      "description": "A new Panda Express location could be coming to the Miami Valley.",
+      "url": "https://www.yahoo.com/news/panda-express-planning-location-near-152642201.html",
+      "urlToImage": "https://media.zenfs.com/en/whio_cox_articles_828/d31a47658d3844def98d49438204c467",
+      "publishedAt": "2024-12-14T15:26:42Z",
+      "content": "A new Panda Express location could be coming to the Miami Valley.\r\n[DOWNLOAD: Free WHIO-TV News app for alerts as news breaks]\r\nThe applicant, Texas-based Heights Venture, submitted plans for a Panda… [+806 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Lauren Edmonds",
+      "title": "'Gladiator II' director Ridley Scott says he 'wouldn't advise' vacationing in Malta, angering a government that paid $48 million for him to film there",
+      "description": "Ridley Scott advised an audience against vacationing in Malta, a location for \"Gladiator II.\" Local politicians are not happy.",
+      "url": "https://www.businessinsider.com/gladiator-ridley-scott-malta-holiday-vacation-controversy-2024-12",
+      "urlToImage": "https://i.insider.com/677019c14057fb47cf57b885?width=1200&format=jpeg",
+      "publishedAt": "2024-12-28T21:31:13Z",
+      "content": "Directors Christopher Nolan and Ridley Scott discussed \"Gladiator II.\"Vivien Killilea/Getty Images for Paramount Pictures\r\n<ul><li>Ridley Scott has advised against vacationing in Malta, a film locati… [+3277 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Pamela Vachon",
+      "title": "This Is How I Got $60 Worth of Groceries for $30 With an App -- And How You Can, Too",
+      "description": "The Flashfood app is designed for you to buy local groceries with damaged packaging or nearing expiration dates in order to keep your fridge, stomach and wallet stuffed.",
+      "url": "https://www.cnet.com/home/kitchen-and-household/this-is-how-i-got-60-worth-of-groceries-for-30-with-an-app-and-how-you-can-too/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/64d995aea32aead9f4daa5cbd4094cceaa00862b/hub/2024/11/06/842b8908-1921-4019-9d75-ecd046b160e2/flashfood-cupboards-and-fridges-are-located-near-the-checkout.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2024-12-26T09:00:00Z",
+      "content": "If you're concerned about rising grocery prices, you're not the only one. A recent CNET survey found that 93% of Americans are concerned about inflation with groceries causing the most sticker shock … [+7403 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jennifer Pattison Tuohy",
+      "title": "This sleek doorbell camera is also a smart home hub",
+      "description": "The Aqara Doorbell Camera Hub G410 has precision motion sensing, support for Thread and Zigbee, and end-to-end encryption of your video.",
+      "url": "https://www.theverge.com/2025/1/6/24334060/aqara-doorbell-camera-hub-g410-smart-home-hub-ces",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/2E3NWweSetM7GfEV2EporzC8uz8=/0x0:1920x1080/1200x628/filters:focal(1248x481:1249x482)/cdn.vox-cdn.com/uploads/chorus_asset/file/25815000/Doorbell_Camera_Hub_G410.png",
+      "publishedAt": "2025-01-06T15:00:00Z",
+      "content": "This sleek doorbell camera is also a smart home hub\r\nThis sleek doorbell camera is also a smart home hub\r\n / Aqaras new video doorbell features mmWave sensing, Thread, Zigbee, and end-to-end encrypti… [+2552 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Eric Geller",
+      "title": "The Top Cybersecurity Agency in the US Is Bracing for Donald Trump",
+      "description": "Staffers at the Cybersecurity and Infrastructure Security Agency tell WIRED they fear the new administration will cut programs that keep the US safe—and “persecution.”",
+      "url": "https://www.wired.com/story/cisa-cuts-trump-2/",
+      "urlToImage": "https://media.wired.com/photos/675cc71ecf3b435a5e4720b5/191:100/w_1280,c_limit/security_trump_cybersecurity_gettyimages.jpg",
+      "publishedAt": "2024-12-16T11:30:00Z",
+      "content": "A second CISA employee predicts that compliance efforts like secure-by-design may not have the support that they currently benefit from.\r\nThat retreat from corporate oversight will be a top priority … [+2662 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Car driven into crowd at German Christmas market, reports say",
+      "description": "At least one person has been killed, Germany's public broadcaster reports, citing police.",
+      "url": "https://www.bbc.com/news/articles/cdr0zx4e04no",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/541a/live/c44df930-bf09-11ef-bea7-a1bc4b119255.jpg",
+      "publishedAt": "2024-12-20T19:22:12Z",
+      "content": "A car has crashed into a crowd at a Christmas market in east Germany, local media report.\r\nA least one person has been killed and several injured in the incident in Magdeburg, according to German pub… [+330 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Where does the government want 1.5 million new homes?",
+      "description": "The government wants 370,000 new homes built in England each year to tackle a housing shortage.",
+      "url": "https://www.bbc.com/news/articles/cdx9gypeqdpo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/626b/live/59312ff0-b88d-11ef-b9e2-61ad42d5e760.jpg",
+      "publishedAt": "2024-12-12T15:44:57Z",
+      "content": "The government has outlined plans to tackle England's housing shortage, with local councils given targets for new homes in their area.\r\nHousing Minister Matthew Pennycook said the focus is on areas w… [+5637 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NPR"
+      },
+      "author": "Ayana Archie",
+      "title": "10 people have now died in the wildfires spreading across Southern California",
+      "description": "The number of dead tied to the wildfires increases as local officials warn the toll will increase. About 180,000 people have had to evacuate.",
+      "url": "https://www.npr.org/2025/01/10/g-s1-41873/california-fires-los-angeles-eaton-hurst-lidia-pasadena",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5472x3078+0+570/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F33%2F3f%2F3703daf34fa2a64a2b94c70434c3%2Fap25010083469052.jpg",
+      "publishedAt": "2025-01-10T10:01:27Z",
+      "content": "This is a developing story. For the latest local updates head to LAist.com and sign up for breaking news alerts.\r\nFires continue to rage on in Southern California, as tens of thousands of acres of la… [+2449 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Hasan Chowdhury",
+      "title": "Apple is still blocked from selling the iPhone 16 in Indonesia after making a $1 billion factory deal",
+      "description": "The tech giant has faced a ban on sales of the iPhone 16 in the country since October having failed to meet local investment requirements.",
+      "url": "https://www.businessinsider.com/apple-iphone-16-ban-indonesia-airtag-investment-2025-1",
+      "urlToImage": "https://i.insider.com/677e64f5f83fcec7e5b4fa33?width=1200&format=jpeg",
+      "publishedAt": "2025-01-08T12:25:32Z",
+      "content": "Apple's iPhone 16 continues to face a ban in Indonesia.Apple\r\n<ul><li>Apple still can't sell iPhone 16s in Indonesia due to a ban in place since October.</li><li>Indonesia's industry minister said th… [+2368 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "2025-01-06T19:45:31Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Charissa Cheong",
+      "title": "I moved to Bengaluru, India. It used to be like a dream city, but it feels like it's bursting at the seams.",
+      "description": "A local non-profit leader who moved to Bengaluru shares why she plans on staying in the city regardless of it's recent water scarcity issues.",
+      "url": "https://www.businessinsider.com/bengaluru-india-silicon-valley-water-scarcity-2024-12",
+      "urlToImage": "https://i.insider.com/674f78fa7929f317fb4fd241?width=1200&format=jpeg",
+      "publishedAt": "2024-12-14T09:49:02Z",
+      "content": "Fatima said she feels Bengaluru may not be able to support further population growth.Photo courtesy of Sheya Foundation, Tyler Le/BI\r\n<ul><li>Batool Fatima moved to Bengaluru, \"India's Silicon Valley… [+5951 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Kenneth Niemeyer,Jake Epstein",
+      "title": "Everything we know about the 'mystery drones' spotted over the East Coast",
+      "description": "Dozens of suspected drones have been spotted flying over states on the East Coast of the United States, sparking concern from local officials.",
+      "url": "https://www.businessinsider.com/everything-we-know-about-mysterious-drones-new-jersey-new-york-2024-12",
+      "urlToImage": "https://i.insider.com/675ded9827808b3289cd435a?width=1200&format=jpeg",
+      "publishedAt": "2024-12-14T20:51:18Z",
+      "content": "White House National Security Communications Adviser John Kirby said there is no evidence the drones are of foreign origin.Andrew Harnik/Getty Images\r\n<ul><li>Dozens of unidentified aircraft have bee… [+7378 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "India Amos",
+      "title": "I've lived in Miami for years. Here are 5 neighborhoods worth visiting on your next trip — and one I'd skip.",
+      "description": "I love visiting underrated parts of Miami and Dade County, like Allapattah and North Miami Beach. But as a Florida local, South Beach is overrated.",
+      "url": "https://www.businessinsider.com/best-parts-miami-to-visit-which-to-skip-florida-local",
+      "urlToImage": "https://i.insider.com/67618cf56c531c315b88bcb9?width=1200&format=jpeg",
+      "publishedAt": "2024-12-29T13:16:01Z",
+      "content": "As a Miami local, I think the city should definitely be on your radar if you're looking for your next favorite travel destination.Alexander Spatari/Getty Images\r\n<ul><li>I've lived in Miami for more … [+5153 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Matt Novak",
+      "title": "Drone Video Captures the Moment This Lost Dog With a Broken Leg Was Finally Found",
+      "description": "The video is pretty emotional.",
+      "url": "https://gizmodo.com/drone-video-captures-the-moment-this-lost-dog-with-a-broken-leg-was-finally-found-2000546993",
+      "urlToImage": "https://gizmodo.com/app/uploads/2025/01/charlie-lost-dog-illinois-drone.jpg",
+      "publishedAt": "2025-01-07T18:04:02Z",
+      "content": "A dog in Illinois who’d been missing for a week was found on Sunday thanks to a local pet rescue organization and a thermal imaging drone. And the moment they found the poor pup is so triumphantly he… [+2162 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Matt Burgess",
+      "title": "This VPN Lets Anyone Use Your Internet Connection. What Could Go Wrong?",
+      "description": "A free VPN app called Big Mama is selling access to people’s home internet networks. Kids are using it to cheat in a VR game while researchers warn of bigger security risks.",
+      "url": "https://www.wired.com/story/residential-proxy-network-cybercrime-vpn/",
+      "urlToImage": "https://media.wired.com/photos/6733d1ef152151a37383986d/191:100/w_1280,c_limit/Security_Oculus_GettyImages.jpg",
+      "publishedAt": "2024-12-19T11:00:00Z",
+      "content": "In other posts during the last year, according to the Kela analysis, cybercrime forum users have recommended Big Mama or shared tips about the configurations people should use. In April this year, se… [+2735 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "Mason Leib",
+      "title": "Local landmarks lost and damaged by raging Los Angeles fires",
+      "description": "As fires continue to burn through Southern California, some of the region's landmarks have been burned or destroyed by the blazes.",
+      "url": "https://abcnews.go.com/GMA/Culture/LA-fire-lost-landmarks/story?id=117517516",
+      "urlToImage": "https://i.abcnewsfe.com/a/786c03a4-954b-4be1-82c7-3db1f49b5203/palisades-village-fire-gty-jt-250109_1736451687425_hpMain_16x9.jpg?w=1600",
+      "publishedAt": "2025-01-10T16:54:21Z",
+      "content": "The devastating fires raging across much of Southern California this week have caused extreme damage, leveling some of Los Angeles' historic landmarks.\r\nThe blaze, which has left five dead and many m… [+5220 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "School chaplain killed in shark attack on Australia's Great Barrier Reef",
+      "description": "School chaplain Luke Walford was spearfishing with his family off an island at the time of the attack.",
+      "url": "https://www.bbc.com/news/articles/cvgxz76m1g8o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/a46e/live/afb2f210-c5d9-11ef-bb2c-870ab79f51c8.jpg",
+      "publishedAt": "2024-12-29T12:40:59Z",
+      "content": "A 40-year-old man has died after being attacked by a shark on the edge of Australia's Great Barrier Reef, local police said.\r\nLuke Walford, a youth pastor, had been spearfishing with his family when … [+1351 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NPR"
+      },
+      "author": "Aneri Pattani",
+      "title": "How are states spending their opioid settlement cash? Look yours up in this database",
+      "description": "From addiction treatment to toy robot ambulances, here's how state and local governments used billions in opioid settlement funds in 2022 and 2023. Explore this database to find our how officials are using the payouts where you live.",
+      "url": "https://www.npr.org/sections/shots-health-news/2024/12/16/nx-s1-5227987/opioid-settlement-funds-database",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3600x2025+0+19/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe8%2Fbf%2Feb64e23041da9e713057c44eba5d%2Fexpenditures-greene03.JPG",
+      "publishedAt": "2024-12-16T10:00:00Z",
+      "content": "In the past few years, state and local governments across the U.S. have begun spending billions in opioid settlements paid by companies accused of fueling the overdose crisis. But where is that money… [+15242 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "2024-12-11T12:12:05Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": null,
+      "title": "Winter Weather Advisory issued for multiple local counties, brighter weather expected on Sunday",
+      "description": null,
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_64f7ddfc-355c-4bb4-96e5-035c6cd3aef6",
+      "urlToImage": null,
+      "publishedAt": "2024-12-21T12:33:19Z",
+      "content": "If you click 'Accept all', we and our partners, including 237 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": null,
+      "title": "'People are going to get super excited': Local parks in Effingham County to see upgrades",
+      "description": null,
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_0557f3b4-298a-474f-b0ad-69ed986de8d5",
+      "urlToImage": null,
+      "publishedAt": "2025-01-03T10:08:10Z",
+      "content": "If you click 'Accept all', we and our partners, including 238 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": null,
+      "title": "Local teen who runs in honor of fallen heroes to lace up for final mile Monday",
+      "description": null,
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_f080c2da-fdfb-4d26-8e20-2351dc9461c1",
+      "urlToImage": null,
+      "publishedAt": "2024-12-30T10:43:29Z",
+      "content": "If you click 'Accept all', we and our partners, including 238 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "News-Press"
+      },
+      "author": "Cheryl McCloud, USA TODAY NETWORK - Florida",
+      "title": "How cold will it get in Florida for New Year's Eve? See your local forecast",
+      "description": "While it might be a little cool in some aeras of Florida this New Year's Eve, overall, expect a great end to 2024 and a nice start to 2025.",
+      "url": "https://www.news-press.com/story/weather/2024/12/31/florida-weather-forecast-radar-new-years-eve-day-2025/77325033007/",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/LRNDXAG8yll1tpibgWVWSg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04Mzg-/https://media.zenfs.com/en/the-news-press/18797d365982ee6cb3b390e3b0845927",
+      "publishedAt": "2024-12-31T11:39:06Z",
+      "content": "New Year's Eve is here.\r\nIf you've made your plans on how to celebrate the departure of 2024 and arrival of 2025, we hope you enjoy your festivities safely.\r\nWeather alerts via text: Sign up to get u… [+4898 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "Emir Nader - BBC News and Rachel Hagan - BBC News",
+      "title": "Israel confirms it is holding Gaza hospital chief Abu Safiya",
+      "description": "The IDF had earlier told a local NGO it was unaware of his case, sparking concern.",
+      "url": "https://www.bbc.com/news/articles/cj30deeggd7o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "urlToImage": "https://media.zenfs.com/en/bbc_us_articles_995/188a770f77d010e4eabf648b0a560cb0",
+      "publishedAt": "2025-01-03T12:34:05Z",
+      "content": "Israel has confirmed it is holding Gaza hospital director Dr Hussam Abu Safiya after earlier telling a local NGO that it was unaware of his case, sparking concern for his well being.\r\nThe Israel Defe… [+3632 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Webcam appears to show police running to New Orleans attack scene",
+      "description": "The moment was captured on a webcam in the French Quarter of the city, moments after the attack happened.",
+      "url": "https://www.bbc.com/news/videos/cz9g7eyyjxpo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/815d/live/bb142cb0-c85d-11ef-9fd6-0be88a764111.jpg",
+      "publishedAt": "2025-01-01T16:40:21Z",
+      "content": "Footage captured by a webcam in New Orleans appears to show the moment police run towards the scene of a fatal attack. \r\nTen people were killed and at least 35 injured when a man drove a truck into a… [+151 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "AJ Dellinger",
+      "title": "Elon Musk Wants to Turn Texas Starbase Into a Company Town",
+      "description": "SpaceX wants to turn its Texas Starbase site into a city.",
+      "url": "https://gizmodo.com/elon-musk-wants-to-turn-texas-starbase-into-a-company-town-2000538442",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/12/GettyImages-539719180.jpg",
+      "publishedAt": "2024-12-13T19:50:29Z",
+      "content": "Elon Musk might like to talk about building a city of the future on Mars, but he’s building a city of the past down in Texas. On Thursday, Musk’s aerospace company SpaceX filed paperwork to turn Star… [+3354 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The State"
+      },
+      "author": "Jordan Lawrence",
+      "title": "‘Old friend’ departing: Another Midlands Zesto restaurant is closing its doors",
+      "description": "It will be the second local Zesto to close this year, following one that shuttered in May in Chapin.",
+      "url": "https://www.thestate.com/news/local/article297202599.html",
+      "urlToImage": "https://media.zenfs.com/en/the_state_mcclatchy_264/0f66e3d590d162f80fcd101128a0fcbf",
+      "publishedAt": "2024-12-16T23:40:35Z",
+      "content": "A restaurant bearing one of Columbias quintessential food brands is hanging it up.\r\nThe City of Forest Acres announced Monday that the Zesto restaurant on Forest Drive will close this month after dec… [+1018 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "How a town got together to cut crime by a third",
+      "description": "Baildon in West Yorkshire \"feels safe\", residents say, after a Neighbourhood Watch scheme exploded.",
+      "url": "https://www.bbc.com/news/articles/clyjmlvyzj4o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/a1c7/live/1d730ba0-c463-11ef-a1bc-3781807aeb0a.jpg",
+      "publishedAt": "2024-12-28T07:32:14Z",
+      "content": "Baildon's neighbourhood watch scheme is recognised as one of Yorkshire's largest\r\nIt's been more than 40 years since Neighbourhood Watch was first launched in the UK, turning residents' eyes and ears… [+5427 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Briton among dead in New Orleans vehicle attack",
+      "description": "A British national was among at least 14 killed on New Year's Day, the Foreign Office confirms.",
+      "url": "https://www.bbc.com/news/articles/cvgxy88rdj5o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0f2c/live/60f697b0-1203-11ef-82e8-cd354766a224.png",
+      "publishedAt": "2025-01-04T00:31:53Z",
+      "content": "A British national was among at least 14 people killed in the vehicle attack in New Orleans on New Year's Day, the Foreign Office has confirmed.\r\nIn a statement, the Foreign Commonwealth and Developm… [+349 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Services will shut, Mencap warns on National Insurance rise",
+      "description": "The charity is one of a number of care organisations warning they will have to axe vital services.",
+      "url": "https://www.bbc.com/news/articles/cy09dwlj2x2o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/67d2/live/ee754100-b716-11ef-a0f2-fd81ae5962f4.jpg",
+      "publishedAt": "2024-12-11T01:42:14Z",
+      "content": "Barry and Betty's service is not under threat, but Mencap fears it will have to close others\r\nA leading charity that supports people with learning disabilities says it may be forced to stop running a… [+6153 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "2024-12-13T01:41:52Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "2024-12-23T11:00:32Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Github.com"
+      },
+      "author": "vercel",
+      "title": "Vercel/fun: ƒun – Local serverless function λ development runtime",
+      "description": "ƒun - Local serverless function λ development runtime - vercel/fun",
+      "url": "https://github.com/vercel/fun",
+      "urlToImage": "https://opengraph.githubassets.com/0d7a5e94ebebc7dc363ed840264a8b24aefc909ac114f54b14d2761a4ecb48d4/vercel/fun",
+      "publishedAt": "2024-12-13T05:08:58Z",
+      "content": "Local serverless function development runtime.\r\nGiven a Lambda function like this one:\r\n// example/index.jsexports.handler=function(event,context,callback){callback(null,{hello: 'world'});};\r\nYou can… [+2854 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Reuters",
+      "title": "Walmart's Mexican unit faces more fines if it defies antitrust resolution, regulator says",
+      "description": "MEXICO CITY (Reuters) -Mexico's antitrust watchdog Cofece said on Monday it could fine Walmart's local unit, Walmex, up to 8% of its income if it does not...",
+      "url": "https://ca.finance.yahoo.com/news/mexicos-antitrust-body-could-fine-180013324.html",
+      "urlToImage": "https://media.zenfs.com/en/reuters.com/98775ecbdb370fc286301842a343b177",
+      "publishedAt": "2024-12-16T18:00:13Z",
+      "content": "MEXICO CITY (Reuters) -Mexico's antitrust watchdog Cofece said on Monday it could fine Walmart's local unit, Walmex, up to 8% of its income if it does not comply with a resolution prohibiting the ret… [+2396 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Pahomepage.com"
+      },
+      "author": "Gianna Galli",
+      "title": "Avian bird flu spreading throughout NEPA",
+      "description": "EYEWITNESS NEWS (WBRE/WYOU)— The avian bird flu is spreading rapidly across our region. Thursday, thousands of birds were found dead in a local pond and now ...",
+      "url": "https://www.pahomepage.com/news/avian-bird-flu-spreading-throughout-nepa/",
+      "urlToImage": "https://media.zenfs.com/en/wbre_articles_217/5b98cae4bee36fb41de9d767ba1891b2",
+      "publishedAt": "2025-01-03T04:07:07Z",
+      "content": "EYEWITNESS NEWS (WBRE/WYOU) The avian bird flu is spreading rapidly across our region.\r\nThursday, thousands of birds were found dead in a local pond and now several facilities in a our area are warni… [+2897 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Ian James, Matt Hamilton, Ruben Vives",
+      "title": "Why hydrants ran dry as firefighters battled California's deadly fires",
+      "description": "Firefighters in Pacific Palisades and Altadena have repeatedly been hampered by low water pressure and dry hydrants, revealing limitations in local water...",
+      "url": "https://www.yahoo.com/news/why-hydrants-ran-dry-firefighters-031621203.html",
+      "urlToImage": "https://media.zenfs.com/en/la_times_articles_853/ed7d4eda442d56bd1e9046436d5038f1",
+      "publishedAt": "2025-01-10T03:16:21Z",
+      "content": "Yahoo is using AI to generate takeaways from this article. This means the info may not always match what's in the article. Reporting mistakes helps us improve the experience.Generate Key Takeaways\r\nA… [+11210 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": null,
+      "title": "Juvenile on skateboard hit on local highway",
+      "description": null,
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_05bf0052-653c-4c1c-a4e6-dd5d37a6f494",
+      "urlToImage": null,
+      "publishedAt": "2025-01-01T13:14:36Z",
+      "content": "If you click 'Accept all', we and our partners, including 238 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "KTLA Los Angeles"
+      },
+      "author": "Vivian Chow",
+      "title": "Southern California taco truck vendor forced out after grocery store threatens legal action",
+      "description": "A Southern California taco truck vendor said after serving the local community for over a decade, he’s been forced to leave his usual spot after a Ralphs...",
+      "url": "https://ktla.com/news/local-news/socal-taco-truck-vendor-forced-out-grocery-store-threatens-legal-action/",
+      "urlToImage": "https://media.zenfs.com/en/ktla_articles_362/c8bc2b8e1b740e0c5bee157c72969cb6",
+      "publishedAt": "2024-12-15T03:48:57Z",
+      "content": "A Southern California taco truck vendor said after serving the local community for over a decade, hes been forced to leave his usual spot after a Ralphs supermarket banned him from operating nearby.\r… [+3652 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Dailyrecord.com"
+      },
+      "author": "William Westhoven, Morristown Daily Record",
+      "title": "Another North Jersey tree-cutting case ends in big fine but restoration work remains",
+      "description": "A large portion of the clear-cutting extended onto land owned by the Butler Reservoir, a local water supply. Replanting cost could add to the fines.",
+      "url": "https://www.dailyrecord.com/story/news/local/morris-county/2024/12/31/kinnelon-nj-tree-cutting-morris-county-reservoir-guilty-plea/77350716007/",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/XdecuvbRDZM5aapt4oItJQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/daily-record/c075bc3c55340f5ee7724efffdd8ae60",
+      "publishedAt": "2024-12-31T20:46:20Z",
+      "content": "For the second time in a year, a Kinnelon resident has been slapped with a five-figure fine for illegally clearing dozens of trees on a neighbor's property.\r\nVincenzo Polise pleaded guilty in Kinnelo… [+3793 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gadsdentimes.com"
+      },
+      "author": "Greg Bailey, Gadsden Times",
+      "title": "Snow in the forecast; Gadsden, Etowah County officials making preparations",
+      "description": "The National Weather Service and local officials both stressed that a shift of a few degrees in temperature could impact what happens.",
+      "url": "https://www.gadsdentimes.com/story/news/2025/01/07/gadsden-etowah-county-preparing-for-possible-snow-and-winter-weather/77519974007/",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/UC897wpBdoci3E.SnCirww--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MjY-/https://media.zenfs.com/en/the-gadsden-times/9050a0aa20976a1d5df010572250235b",
+      "publishedAt": "2025-01-07T22:05:17Z",
+      "content": "Snow lovers are glued to weather forecasts and obsessing over computer models that indicate Northeast Alabama will see some level of winter storm on Friday into Saturday.\r\nThe National Weather Servic… [+3577 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Moment over 100,000 teddy bears fly onto ice rink",
+      "description": "The ice hockey event saw a \"world record\" 102,343 teddy bears fly into the ice rink in a moment of \"sweet cuddly mayhem\", with the stuffed toys set to be collected for charity.",
+      "url": "https://www.bbc.com/news/videos/cr7vg45y0g7o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/30df/live/b1a84c20-ccad-11ef-94cb-5f844ceb9e30.jpg",
+      "publishedAt": "2025-01-07T04:25:09Z",
+      "content": "A world record 102,343 stuffed toys hit the ice rink in a moment of \"sweet, cuddly mayhem\", according to an American Hockey League team. \r\nAt the game in Hershey, Pennsylvania, footage shows stuffed … [+354 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Adrian Volenik",
+      "title": "A Homebuyer Posts, 'We're Not Falling For This Again,' Issuing A Warning To Fellow House Hunters On Local Boards",
+      "description": "If you're house-hunting in today's unpredictable real estate market, you've probably heard the advice to get creative. One popular suggestion? Posting on...",
+      "url": "https://finance.yahoo.com/news/homebuyer-posts-were-not-falling-173015071.html",
+      "urlToImage": "https://media.zenfs.com/en/benzinga_79/fe808169dcda715e7fffed6cb168a32b",
+      "publishedAt": "2024-12-30T17:30:15Z",
+      "content": "A Homebuyer Posts, 'We're Not Falling For This Again,' Issuing A Warning To Fellow House Hunters On Local Boards\r\nBenzinga and Yahoo Finance LLC may earn commission or revenue on some items through t… [+3956 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Jared Keller",
+      "title": "Why the US Military Can't Just Shoot Down the Mystery Drones",
+      "description": "Small, easily weaponizable drones have become a feature of battlefields from the Middle East to Ukraine. Now the threat looms over the US homeland—and the Pentagon's ability to respond is limited.",
+      "url": "https://www.wired.com/story/us-military-mystery-drones-response/",
+      "urlToImage": "https://media.wired.com/photos/675c556565fa3589149606a7/191:100/w_1280,c_limit/drone-sec-1401444200.jpg",
+      "publishedAt": "2024-12-13T16:33:46Z",
+      "content": "By all indications, [small unmanned aerial systems] will present a safety and security risk to military installations and other critical infrastructure for the foreseeable future, NORTHCOM boss Air F… [+2544 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Thousands without water in Republic of Ireland",
+      "description": "Irish national weather forecaster Met Éireann has issued a fresh yellow warning for the Republic.",
+      "url": "https://www.bbc.com/news/articles/cr7vg535vvro",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4f5d/live/c6a1c070-cc3f-11ef-9d7a-e12c85b7e0a5.jpg",
+      "publishedAt": "2025-01-07T09:33:58Z",
+      "content": "A fresh weather warning has been issued for the Republic of Ireland\r\nAbout 10,000 customers in the Republic of Ireland are still without water as snow and icy weather conditions continue to grip much… [+4825 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Australia to force tech giants to keep paying for news",
+      "description": "The long-awaited decision follows a standoff with Meta, and succeeds a world-first law from 2021.",
+      "url": "https://www.bbc.com/news/articles/cy4pvgjklevo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1848/live/e0cc98a0-b81a-11ef-a101-b70acd036db9.jpg",
+      "publishedAt": "2024-12-12T05:45:00Z",
+      "content": "Australia's government says it will create new rules to force big tech companies to pay local publishers for news. \r\nThe long-awaited decision sets out a successor to a world-first law that Australia… [+2497 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Hundreds join huge scrum for medieval game",
+      "description": "The annual rugby-style game is contested between the patrons of pubs in two Lincolnshire villages.",
+      "url": "https://www.bbc.com/news/articles/czjdr9xr7nmo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2911/live/a8afe6b0-cc43-11ef-aa06-a1b988c7036b.jpg",
+      "publishedAt": "2025-01-06T20:56:48Z",
+      "content": "Hundreds of people have turned out to take part in a centuries-old rugby-style game involving rival villagers.\r\nThe annual Haxey Hood game between pubs in the North Lincolnshire villages of Haxey and… [+1771 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Blogger.com"
+      },
+      "author": "Calculated Risk",
+      "title": "4th Look at Local Housing Markets in November",
+      "description": null,
+      "url": "https://www.blogger.com/comment/fullpage/post/10004977/2342567456218670353",
+      "urlToImage": null,
+      "publishedAt": "2024-12-18T22:31:00Z",
+      "content": "Today, in the Calculated Risk Real Estate Newsletter: 4th Look at Local Housing Markets in November\nA brief excerpt: The NAR is scheduled to release November Existing Home sales tomorrow, Thursday, D… [+750 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "How a tiny village grew into a huge luxury destination",
+      "description": "From sticky toffee pudding to three Michelin-starred dining, a Lake District hamlet  turns hotspot.",
+      "url": "https://www.bbc.com/news/articles/ckg9vx0r91mo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/b11c/live/adfd90e0-b3c5-11ef-a0ab-6b9233a98ccc.jpg",
+      "publishedAt": "2024-12-21T08:35:08Z",
+      "content": "The small village of Cartmel has been described as \"captivating\"\r\nLong known as the home of sticky toffee pudding, Cartmel in Cumbria is experiencing its own sweet taste of success. Just how did this… [+4714 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Blogger.com"
+      },
+      "author": "Calculated Risk",
+      "title": "1st Look at Local Housing Markets in December",
+      "description": null,
+      "url": "https://www.blogger.com/comment/fullpage/post/10004977/5103389847021398771",
+      "urlToImage": null,
+      "publishedAt": "2025-01-08T18:02:00Z",
+      "content": "Today, in the Calculated Risk Real Estate Newsletter: 1st Look at Local Housing Markets in December\nA brief excerpt: NOTE: The tables for active listings, new listings and closed sales all include a … [+1326 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "Emily Shapiro, Meredith Deliso, David Brennan",
+      "title": "Abundant Life Christian School shooting latest: Local schools report 'false threats'",
+      "description": "Police are investigating the online footprint of 15-year-old Abundant Life Christian School shooting suspect Natalie Rupnow -- who went by Samantha.",
+      "url": "https://abcnews.go.com/US/abundant-life-christian-school-shooting-latest-local-schools/story?id=116895494",
+      "urlToImage": "https://i.abcnewsfe.com/a/4afe7c80-aab7-41cb-ad49-babfc1dcbe13/Madison-memorial-DB-241218_1734513548929_hpMain_16x9.jpg?w=1600",
+      "publishedAt": "2024-12-18T09:47:00Z",
+      "content": "Police are investigating the online footprint of 15-year-old Abundant Life Christian School shooting suspect Natalie Rupnow -- who went by Samantha -- as they piece together the course of events that… [+5136 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "Sam Sweeney, Hakyung Kate Lee",
+      "title": "28 dead, 2 rescued after jet veers off runway in South Korea, local reports say",
+      "description": "More than two dozen people were killed after an airplane veered off a runway upon landing at an airport in South Korea on Sunday morning, according to local media.",
+      "url": "https://abcnews.go.com/International/2-rescued-28-killed-after-jet-veers-off/story?id=117171549",
+      "urlToImage": "https://i.abcnewsfe.com/a/4e9a6b20-12ac-4d0b-8100-65b0a8550c1a/GettyImages-1793064108_1735435350921_hpMain_16x9.jpg?w=1600",
+      "publishedAt": "2024-12-29T01:57:12Z",
+      "content": "More than two dozen people were killed after an airplane veered off a runway upon landing at an airport in South Korea on Sunday morning, according to local media.\r\nJeju Air FLight 7C2216 was landing… [+709 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Blogger.com"
+      },
+      "author": "Calculated Risk",
+      "title": "2nd Look at Local Housing Markets in November",
+      "description": null,
+      "url": "https://www.blogger.com/comment/fullpage/post/10004977/9119868790585333507",
+      "urlToImage": null,
+      "publishedAt": "2024-12-11T18:49:00Z",
+      "content": "Today, in the Calculated Risk Real Estate Newsletter: 2nd Look at Local Housing Markets in November\nA brief excerpt: NOTE: The tables for active listings, new listings and closed sales all include a … [+840 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Blogger.com"
+      },
+      "author": "Calculated Risk",
+      "title": "3rd Look at Local Housing Markets in November",
+      "description": null,
+      "url": "https://www.blogger.com/comment/fullpage/post/10004977/6428329692453642425",
+      "urlToImage": null,
+      "publishedAt": "2024-12-16T16:14:00Z",
+      "content": "Today, in the Calculated Risk Real Estate Newsletter: 3rd Look at Local Housing Markets in November\nA brief excerpt: The NAR is scheduled to release November Existing Home sales on Thursday, December… [+1202 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "What legacy will Bibby Stockholm asylum barge leave behind?",
+      "description": "The BBC looks at how the barge for asylum seekers affected people in Weymouth and Portland.",
+      "url": "https://www.bbc.com/news/articles/cq8ql337qxvo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8872/live/16d17940-ccd2-11ef-94cb-5f844ceb9e30.jpg",
+      "publishedAt": "2025-01-08T06:10:33Z",
+      "content": "Preparations are being made to tow the Bibby Stockholm away from Portland Port\r\nThe cost of the Bibby Stockholm will no longer fall on the taxpayer or the Home Office by the end of the week, the BBC … [+4003 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Ed Cara",
+      "title": "Bat Poop Fertilizer Blamed for Deadly Fungal Infections in Cannabis Growers",
+      "description": "Doctors have reported two rare and fatal cases of histoplasmosis, a fungal disease linked to bat guano used as fertilizer for locally grown cannabis.",
+      "url": "https://gizmodo.com/bat-poop-fertilizer-blamed-for-deadly-fungal-infections-in-cannabis-growers-2000539391",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/12/Cave-bats.jpg",
+      "publishedAt": "2024-12-17T14:50:52Z",
+      "content": "Homegrown weed lovers beware: there are some fertilizers that you should probably avoid. Doctors are warning people to steer clear of bat guano, a.k.a bat poop, after two cannabis growers contracted … [+3829 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Ed Cara",
+      "title": "Rare Case of Heat Stroke Highlights Hidden Dangers of Saunas",
+      "description": "\"Sauna use is a rare but potentially important cause of classical heat stroke,\" the doctors of a new case report warn.",
+      "url": "https://gizmodo.com/rare-case-of-heat-stroke-highlights-hidden-dangers-of-saunas-2000547536",
+      "urlToImage": "https://gizmodo.com/app/uploads/2025/01/Sauna-bath.jpg",
+      "publishedAt": "2025-01-08T18:15:32Z",
+      "content": "A trip to the sauna can be incredibly relaxingjust be sure to stay hydrated. In a new report this week, doctors warn of the potential danger of not sticking to this advice: a rare but life-threatenin… [+2932 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Dezeen"
+      },
+      "author": "Rupert Bickersteth",
+      "title": "Multipurpose community park in rural Norway designed with local residents",
+      "description": "Architecture studio Local has completed a community park and playground in Etne on the West coast of Norway, featuring a pavilion made using recycled aluminium from a nearby plant. The community park, called Skakkeringen, is part of Vestland County's pilot pr…",
+      "url": "https://www.dezeen.com/2025/01/10/multipurpose-community-park-in-rural-norway-designed-with-local-residents/",
+      "urlToImage": "https://static.dezeen.com/uploads/2025/01/local-studio-activity-park-norway-playground-design-architecture-pavilion_dezeen_2364_col_0-600x600.jpg",
+      "publishedAt": "2025-01-10T08:00:23Z",
+      "content": "Architecture studio Local has completed a community park and playground in Etne on the West coast of Norway, featuring a pavilion made using recycled aluminium from a nearby plant.\r\nThe community par… [+4542 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Anna Washenko",
+      "title": "How to watch Awesome Games Done Quick 2025",
+      "description": "The best thing about the start of a new year isn't the goal-setting or the aspirational self-improvement — it's watching Awesome Games Done Quick. AGDQ is one of the premiere events for speedrunning, with an entire week of high-skill gameplay and loads of hea…",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_f212d1fe-c7d8-4e4a-a452-cff933603a42",
+      "urlToImage": null,
+      "publishedAt": "2025-01-02T19:17:52Z",
+      "content": "If you click 'Accept all', we and our partners, including 238 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Kotaku"
+      },
+      "author": "John Walker",
+      "title": "Pokémon Go's Dreadful Community Days Are Doubling In Price",
+      "description": "For so many years, so many have been lamenting the dire state of Pokémon Go’s monthly Community Days. What should be events that encourage players to fill local parks for a fun series of challenges have become repetitive, desultory events that can be complete…",
+      "url": "https://kotaku.com/pokemon-go-community-day-sprigatito-price-1851732203",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/d7b392b3db2d4c5910b6b5a1ef782f99.jpg",
+      "publishedAt": "2025-01-03T17:55:00Z",
+      "content": "For so many years, so many have been lamenting the dire state of Pokémon Gos monthly Community Days. What should be events that encourage players to fill local parks for a fun series of challenges ha… [+3311 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Xataka.com"
+      },
+      "author": "Matías S. Zavia",
+      "title": "China ha conectado el aerogenerador terrestre más grande del mundo. Es tan grande que está alterando el microclima local",
+      "description": "Después de conectar a la red el aerogenerador terrestre más grande del mundo, la empresa china Sany Renewable Energy descubrió algo inesperado: sus palas están afectando el microclima local.\n<!-- BREAK 1 -->\nDescomunal. Con una capacidad de 15 MW, la turbina …",
+      "url": "https://www.xataka.com/energia/china-ha-conectado-aerogenerador-terrestre-grande-mundo-grande-que-esta-alterando-microclima-local",
+      "urlToImage": "https://i.blogs.es/95444a/sany/840_560.jpeg",
+      "publishedAt": "2024-12-18T11:01:35Z",
+      "content": "Después de conectar a la red el aerogenerador terrestre más grande del mundo, la empresa china Sany Renewable Energy descubrió algo inesperado: sus palas están afectando el microclima local.\r\nDescomu… [+2856 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "BBC Sport",
+      "title": "Sugar Bowl postponed after New Orleans attack",
+      "description": "The Sugar Bowl between the US college football teams of Notre Dame and the University of Georgia is postponed following the New Orleans attack that killed 10 people.",
+      "url": "https://www.bbc.com/sport/american-football/articles/czxdq4rwr24o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/0941/live/6a50c150-c879-11ef-917b-f5c764035d6b.jpg",
+      "publishedAt": "2025-01-01T20:11:01Z",
+      "content": "The Sugar Bowl between the US college football teams of Notre Dame and the University of Georgia has been postponed until Thursday following the New Orleans attack that killed 10 people.\r\nAt least 35… [+788 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Trump threatens \"very high\" tariffs on Denmark over Greenland",
+      "description": "Donald Trump also vows to change the Gulf of Mexico's name and repeats promises to impose tariffs on Canada and Mexico.",
+      "url": "https://www.bbc.com/news/articles/c4gzn48jwz2o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/c4ef/live/02373ac0-cd26-11ef-87df-d575b9a434a4.jpg",
+      "publishedAt": "2025-01-07T18:31:27Z",
+      "content": "US President-elect Donald Trump has threatened \"very-high\" tariffs on Denmark if it resists his effort to take control of Greenland, an autonomous Danish territory.\r\nAsked on Tuesday if he would rule… [+869 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Farage defends Musk after grooming gangs posts",
+      "description": "The tech billionaire has used his X platform to heavily criticise the UK government and individual ministers.",
+      "url": "https://www.bbc.com/news/articles/cd9x3d4v7jdo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3be9/live/5a199f90-cb22-11ef-87ce-d7454f0ac487.jpg",
+      "publishedAt": "2025-01-05T05:30:53Z",
+      "content": "Nigel Farage has defended Elon Musk after the billionaire attacked the UK government's response to grooming gangs on X, the social media platform he owns.\r\nIn a series of posts over several days, Mus… [+5086 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "LA blaze reportedly engulfs school made famous by Hollywood",
+      "description": "Parts of Palisades Charter High School - which appeared in films such as Carrie - have caught fire, US media say.",
+      "url": "https://www.bbc.com/news/articles/cdxzxy4zkw1o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6231/live/3a0dc3d0-cdb5-11ef-9fd6-0be88a764111.jpg",
+      "publishedAt": "2025-01-08T11:41:58Z",
+      "content": "Watch: Palisades fire burns homes as thousands evacuate in LA\r\nA well-known high school in the Pacific Palisades area of Los Angeles has reportedly fallen victim to a wildfire raging in the US city. … [+3116 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Plan to register children not in school takes shape",
+      "description": "The Children's Wellbeing and Schools Bill is expected to come into force in 2025.",
+      "url": "https://www.bbc.com/news/articles/cg7r579z0x5o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/db53/live/3b1b1330-bbf0-11ef-84e4-0f84b4aa3cde.jpg",
+      "publishedAt": "2024-12-17T02:18:59Z",
+      "content": "A register to identify children who are not in school in England will be part of a bill introduced to Parliament on Tuesday.\r\nThe Department for Education says knowledge of where children are will en… [+2676 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "South Korea orders air safety probe after plane crash that killed 179",
+      "description": "His order comes as another Jeju Air flight made a U-turn to Seoul due to a landing-gear issue.",
+      "url": "https://www.bbc.com/news/articles/clygpxkvx9eo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9690/live/763759f0-c65a-11ef-ad32-13d93195c81a.jpg",
+      "publishedAt": "2024-12-30T04:17:38Z",
+      "content": "South Korea's acting leader has ordered an emergency safety inspection of the country's entire airline operations, a day after 179 people were killed in the deadliest plane crash on its soil. \r\nThe J… [+2657 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Ali Winston",
+      "title": "As the Mastermind of Far-Right ‘Active Clubs’ Goes to Prison, His Violent Movement Goes Global",
+      "description": "The white supremacist Robert Rundo faces years in prison. But the “Active Club” network he helped create has proliferated in countries around the world, from Eastern Europe to South America.",
+      "url": "https://www.wired.com/story/robert-rundo-sentencing-active-clubs/",
+      "urlToImage": "https://media.wired.com/photos/675b6cd2df22ead0c997bde2/191:100/w_1280,c_limit/Active-Clubs-Prison-Sentence-Security-1167840469.jpg",
+      "publishedAt": "2024-12-13T10:00:00Z",
+      "content": "American neo-Nazi Robert Rundos six-year battle with the fedsa fight that spans two dismissals, three appellate reversals, and an extradition and deportation from at least two countriesconcludes toda… [+2914 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Kate Knibbs",
+      "title": "Californians Say X Blocked Them From Viewing Amber Alert About Missing 14 Year-Old",
+      "description": "Many people reported they hit a screen preventing them from seeing the alert unless they signed in.",
+      "url": "https://www.wired.com/story/amber-alert-paywall-california/",
+      "urlToImage": "https://media.wired.com/photos/6777268285b41d9ed2b48f2e/191:100/w_1280,c_limit/Security_XAmber_GettyImages-1486829247.jpg",
+      "publishedAt": "2025-01-03T15:36:03Z",
+      "content": "People in Missouri reported encountering a similar issue in July 2023, when the Missouri Highway Patrol sent out another Amber Alert push notification with a link to an X post. Local residents simila… [+3888 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Jeff Carlson",
+      "title": "iOS 18.2 Is Here, but Do This Before You Update Your iPhone",
+      "description": "Before you install iOS 18.2, make sure you have a solid backup in place.",
+      "url": "https://www.cnet.com/tech/mobile/ios-18-2-is-here-but-do-this-before-you-update-your-iphone/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/c28664b5b20c949858f48f0268a6a035680d9b1f/hub/2024/07/24/568f44f9-fae7-44ab-88da-d6df77a7ce8e/iphone-mac-backup-cabled.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2024-12-12T21:28:49Z",
+      "content": "CNET\r\nI know the last thing on your mind is an iPhone backup when what you really want to do is install iOS 18.2 and start using its new features. But as someone who's charged headlong into what turn… [+4617 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Man shot dead by armed police on Christmas Eve",
+      "description": "West Mercia Police refers itself to the policing watchdog after a man was shot in Redditch.",
+      "url": "https://www.bbc.com/news/articles/cp31zejz0nno",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/f2f3/live/bd294890-c2a0-11ef-959c-41ad31a78463.jpg",
+      "publishedAt": "2024-12-25T09:40:28Z",
+      "content": "A man has been shot dead by armed police in Worcestershire.\r\nWest Mercia Police said officers were called by paramedics to an address in Fownhope Close, Redditch, at about14:00 GMT on Christmas Eve o… [+952 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "Tom Mallows",
+      "title": "US Olympic sprinter Kerley tasered after police confrontation",
+      "description": "United States Olympic sprinter Fred Kerley is tasered and arrested by police following a confrontation with officers in Miami, Florida.",
+      "url": "https://www.bbc.com/sport/athletics/articles/clykl7gl586o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/47de/live/bc259890-ca11-11ef-bdef-05d8ac69ac36.jpg",
+      "publishedAt": "2025-01-03T21:53:40Z",
+      "content": "United States Olympic sprinter Fred Kerley was tasered and arrested by police following a confrontation with officers in Miami, Florida.\r\nThe 29-year-old, who won 100m bronze at last summer's Paris G… [+1047 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Bid to halt safeguarding bill sickening, says Phillipson",
+      "description": "Bridget Phillipson criticises a push for a new inquiry into grooming gangs by halting progress of the bill.",
+      "url": "https://www.bbc.com/news/articles/cvgngd52z71o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3e52/live/eecd9160-cd97-11ef-b397-a9d3556a64c6.jpg",
+      "publishedAt": "2025-01-08T08:26:22Z",
+      "content": "Pushing for a new national inquiry into grooming gangs by halting the progress of a bill aimed at bolstering child safety is \"utterly sickening\", the education secretary has said.\r\nBridget Phillipson… [+1302 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Claire Gautreaux",
+      "title": "I live in one of the fastest-growing cities in the US. From the small-town vibes to the shopping centers, here's why I love living here.",
+      "description": "I moved to one of the fastest-growing US cities, Celina, Texas, in 2022. I love the friendly people, lively downtown area, and natural beauty.",
+      "url": "https://www.businessinsider.com/what-living-in-growing-city-is-like-celina-texas-2025",
+      "urlToImage": "https://i.insider.com/676b0698e3e473ef263b11b5?width=1200&format=jpeg",
+      "publishedAt": "2025-01-07T15:47:01Z",
+      "content": "I moved to Celina, Texas, in 2022, and I love living here.Claire Gautreaux\r\n<ul><li>I moved to Celina, Texas, in 2022 and absolutely love living in the city.</li><li>I like the area's small-town feel… [+3343 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "'Welsh, fat and working-class is my superpower'",
+      "description": "Over the past few years Megan Winstone has taken photographs for Vogue, Kerrang! and Dr. Martens.",
+      "url": "https://www.bbc.com/news/articles/cr4rdg31e6go",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/db38/live/fd1123a0-c1f2-11ef-a0f2-fd81ae5962f4.jpg",
+      "publishedAt": "2025-01-05T22:13:26Z",
+      "content": "Growing up teachers told Megan she would not amount to much\r\nThe world of fashion is often criticised for elitism and an obsession with thinness, but photographer and model Megan Winstone says being … [+4488 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Restofworld.org"
+      },
+      "author": "Khadija Alam",
+      "title": "Starlink is now cheaper than leading internet provider in some African countries",
+      "description": "In Ghana, Starlink is half the price of the local ISP.",
+      "url": "https://restofworld.org/2025/starlink-cheaper-internet-africa/",
+      "urlToImage": "https://149346090.v2.pressablecdn.com/wp-content/uploads/2025/01/2025-Redux-h_16247862-2-1600x900.jpg",
+      "publishedAt": "2025-01-10T17:24:32Z",
+      "content": "Starlink, launched in 2019 by Elon Musks SpaceX, has become the leading satellite internet provider in the world. Now available in more than 100 countries, Starlink can also be a relatively affordabl… [+5741 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Modernism and Islamic motifs: How Indian artists envisioned Christ's birth",
+      "description": "Over the centuries, painters in India have depicted Jesus's birth from a uniquely local perspective.",
+      "url": "https://www.bbc.com/news/articles/c0rn7eljy12o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/ba8f/live/40864e40-c1c0-11ef-9516-d703777afbf1.jpg",
+      "publishedAt": "2024-12-24T22:06:10Z",
+      "content": "This 17th Century painting fuses Islamic motifs with Renaissance style artwork\r\nThe birth of Jesus Christ - a seminal biblical event - has been the subject of many paintings by Western artists, who h… [+3968 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Beatrice Nolan",
+      "title": "Apple is exploring a way to bring AI features to iPhones in China, report says",
+      "description": "Apple started rolling out some of its Apple Intelligence features in the US in October. However, they are still unavailable in China.",
+      "url": "https://www.businessinsider.com/apple-intelligence-china-ai-bytedance-tencent-2024-12",
+      "urlToImage": "https://i.insider.com/676420225cddac6581d6e386?width=1200&format=jpeg",
+      "publishedAt": "2024-12-19T13:59:09Z",
+      "content": "Apple started rolling out Apple Intelligence features in October. Apple\r\n<ul><li>Apple is looking to integrate AI in iPhones sold in China via local partnerships, Reuters reported.</li><li>Regulatory… [+1850 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Did bird strike contribute to South Korea plane crash? What we know so far",
+      "description": "Officials are investigating the cause of the deadliest aircraft crash in South Korean history, which killed 179 people.",
+      "url": "https://www.bbc.com/news/articles/ckgzprprlyeo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/44b2/live/278df230-c5f8-11ef-9999-dfde4758abcc.jpg",
+      "publishedAt": "2024-12-29T14:45:01Z",
+      "content": "Authorities are investigating the cause of the crash\r\nMore than 170 people have died after a plane crashed as it was landing in South Korea on Sunday morning.\r\nThe Jeju Air plane came off the runway … [+5762 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Blogger.com"
+      },
+      "author": "Calculated Risk",
+      "title": "Final Look at Local Housing Markets in November and a Look Ahead to December Sales",
+      "description": null,
+      "url": "https://www.blogger.com/comment/fullpage/post/10004977/8297925580969426909",
+      "urlToImage": null,
+      "publishedAt": "2024-12-30T17:38:00Z",
+      "content": "Today, in the Calculated Risk Real Estate Newsletter: Final Look at Local Housing Markets in November and a Look Ahead to December Sales\nA brief excerpt: After the National Association of Realtors® (… [+951 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Caitlin Rivers",
+      "title": "There’s Still Time to Get Ahead of the Next Global Pandemic",
+      "description": "By learning lessons from other sectors, public health can ensure it is ready to face future outbreaks in record time.",
+      "url": "https://www.wired.com/story/global-pandemic-public-health-lessons-preparedness/",
+      "urlToImage": "https://media.wired.com/photos/673f56f237b85dd485efd8de/191:100/w_1280,c_limit/WW25-Health-CR-Seba-Cestaro.jpg",
+      "publishedAt": "2024-12-27T09:00:00Z",
+      "content": "Public health is under pressure. Across health care systems around the world, funding is declining, exhausted professionals are leaving the field, and in the US state legislatures are pulling back ne… [+3567 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Kate Knibbs",
+      "title": "Meta Now Lets Users Say Gay and Trans People Have 'Mental Illness'",
+      "description": "Meta rolled out a number of changes to its “Hateful Conduct” policy Tuesday as part of a sweeping overhaul of its approach toward content moderation.",
+      "url": "https://www.wired.com/story/meta-immigration-gender-policies-change/",
+      "urlToImage": "https://media.wired.com/photos/677d5cf34db7921e9b5b18e4/191:100/w_1280,c_limit/biz_meta_AP24240376730673.jpg",
+      "publishedAt": "2025-01-07T18:45:20Z",
+      "content": "Meta announced a series of major updates to its content moderation policies today, including that its getting rid of restrictions on speech about topics like immigration, gender identity and gender t… [+3563 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Seths.blog"
+      },
+      "author": "Seth Godin",
+      "title": "Situational spending",
+      "description": "Money is a story. But money is also an exchangeable commodity, valued by different people in different ways. And time is the wildcard. Situational spending is a trap that seduces us into forgetting that time passes and debt (or assets) remain. A couple about …",
+      "url": "https://seths.blog/2025/01/situational-spending-2/",
+      "urlToImage": "https://seths.blog/wp-content/uploads/2018/06/seth_godin_ogimages_v02_1806138-1.jpg",
+      "publishedAt": "2025-01-08T10:03:00Z",
+      "content": "Money is a story.\r\nBut money is also an exchangeable commodity, valued by different people in different ways. And time is the wildcard.\r\nSituational spending is a trap that seduces us into forgetting… [+1033 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Android Police"
+      },
+      "author": "Nathan Drescher",
+      "title": "Full local control is coming to Matter devices on Google Home hubs",
+      "description": "Google Home now supports full local control of Matter devices, allowing Nest, Chromecast, and LG TVs to work even when the internet is down",
+      "url": "https://www.androidpolice.com/google-home-local-matter/",
+      "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/wm/2024/12/google-home-features-0.jpg",
+      "publishedAt": "2025-01-08T22:57:39Z",
+      "content": "Summary\r\n<ul><li>\r\n Local control for Matter devices is rolling out for the Google Home ecosystem, allowing control of Matter devices even without an internet connection.\r\n </li><li>\r\n Google Home is… [+2947 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Ourworldindata.org"
+      },
+      "author": null,
+      "title": "China reduced sulphur dioxide emissions by more than two-thirds in past 15 years",
+      "description": "China has dramatically reduced local air pollution levels — particularly in its biggest cities — in the last decade.",
+      "url": "https://ourworldindata.org/data-insights/china-has-reduced-sulphur-dioxide-emissions-by-more-than-two-thirds-in-the-last-15-years",
+      "urlToImage": "https://ourworldindata.org/cdn-cgi/imagedelivery/qLq-8BTgXU8yG0N6HnOy8g/a5334adf-a6f4-4b44-d35b-cc1211407800/public",
+      "publishedAt": "2025-01-03T11:12:25Z",
+      "content": "High levels of cholesterol are a risk factor for atherosclerosis and cardiovascular diseases, which can lead to heart attacks and strokes.\r\nAs the chart shows, the age-standardized share of American … [+1122 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Mental Floss"
+      },
+      "author": "Ellen Gutoskey",
+      "title": "9 Hilarious Moments From Local News",
+      "description": "Local news bloopers can have you laughing just as hard as the reporters themselves. Here are nine of our favorites.",
+      "url": "https://www.mentalfloss.com/hilarious-moments-local-news",
+      "urlToImage": "https://images2.minutemediacdn.com/image/upload/c_crop,w_4277,h_2405,x_0,y_422/images/GettyImages/mmsport/mentalfloss/01jf117f14gsmgdzrp2j",
+      "publishedAt": "2025-01-06T12:59:00Z",
+      "content": "The thrill of live TV is that you never really know whats going to happen, and nowhere is this more apparent than on local news programs. Interviews take unexpected turns, technology fails to coopera… [+3408 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NPR"
+      },
+      "author": "The Associated Press",
+      "title": "A plane has caught fire at a South Korean airport and rescue work is underway",
+      "description": "The emergency office says the plane caught fire at an airport in Muan after its landing gear malfunctioned.",
+      "url": "https://www.npr.org/2024/12/28/nx-s1-5241849/muan-south-korea-plane-fire",
+      "urlToImage": "https://media.npr.org/include/images/facebook-default-wide-s1400-c100.jpg",
+      "publishedAt": "2024-12-29T01:08:26Z",
+      "content": "SEOUL, South Korea A plane with malfunctioning landing gear veered off the runway, hit a fence and caught fire Sunday at an airport in southern South Korea, according to the emergency office and loca… [+747 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Tom Warren",
+      "title": "AMD announces next-gen Radeon RX 9070-series GPUs with AI-powered FSR 4 upscaling",
+      "description": "AMD is previewing its next-gen GPUs and FSR 4 upscaling. The Radeon RX 9070 XT and RX 9070 will be the first GPUs with AI-powered FSR 4 upscaling support.",
+      "url": "https://www.theverge.com/2025/1/6/24336246/amd-radeon-rx-9070-series-rdna-4-fsr-4-ces-2025",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/61QbankdgUoUNMJhpHK3UNVrpnM=/0x0:3840x2158/1200x628/filters:focal(1920x1079:1921x1080)/cdn.vox-cdn.com/uploads/chorus_asset/file/25817672/radeonrx7000series.jpeg",
+      "publishedAt": "2025-01-06T19:45:00Z",
+      "content": "AMD announces next-gen Radeon RX 9070-series GPUs with AI-powered FSR 4 upscaling\r\nAMD announces next-gen Radeon RX 9070-series GPUs with AI-powered FSR 4 upscaling\r\n / AMD is only previewing its nex… [+2809 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Sheena Vasani",
+      "title": "iRobot’s mop-equipped Roomba Combo j7 Plus is nearly matching its best price to date",
+      "description": "iRobot’s Roomba Combo j7 Plus starts at $669 ($331 off) at Wellbots. The Beats Solo 4 and Aqara G4 Video Doorbell  are also on sale.",
+      "url": "https://www.theverge.com/2024/12/17/24323364/irobot-roomba-combo-j7-plus-loop-experience-2-deal-sale",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/eDzkyOb4y3dAG8h9EdYxtBgfg9M=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24241346/226425_Roomba_Combo_Review_JTuohy_0007.jpg",
+      "publishedAt": "2024-12-17T17:59:04Z",
+      "content": "iRobots mop-equipped Roomba Combo j7 Plus is nearly matching its best price to date\r\niRobots mop-equipped Roomba Combo j7 Plus is nearly matching its best price to date\r\n / We also found deals on the… [+3285 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jay Peters",
+      "title": "Nvidia’s AI NPCs are no longer chatbots — they’re your new PUBG teammate",
+      "description": "At CES 2025, Nvidia showed how its AI ACE characters can be can be “autonomous game characters,” including as an AI teammate in PUBG at some point this year.",
+      "url": "https://www.theverge.com/2025/1/6/24337949/nvidia-ace-ai-npcs-pubg-ally-teammate",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/JyxwqSTRtjAhC4UNm1QHA3I37EU=/0x0:2560x1440/1200x628/filters:focal(1280x720:1281x721)/cdn.vox-cdn.com/uploads/chorus_asset/file/25820669/videoframe_62840.png",
+      "publishedAt": "2025-01-07T04:32:22Z",
+      "content": "Nvidias AI NPCs are no longer chatbots theyre your new PUBG teammate\r\nNvidias AI NPCs are no longer chatbots theyre your new PUBG teammate\r\n / PUBG is getting AI teammates powered by Nvidia technolog… [+2677 chars]"
+    }
+  ]
+}

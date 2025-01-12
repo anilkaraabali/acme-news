@@ -1,0 +1,4 @@
+const USER_CATEGORIES_COOKIE_KEY = 'user_categories';
+const USER_STORAGE_KEY = 'user';
+
+export { USER_CATEGORIES_COOKIE_KEY, USER_STORAGE_KEY };
