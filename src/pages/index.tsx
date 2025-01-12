@@ -34,6 +34,7 @@ export const getServerSideProps = (async (ctx) => {
         mapper: (data: NewsApiResponse) => newsApiMapper(data, 10),
         origin: process.env.NEXT_PUBLIC_NEWS_API_ORIGIN as string,
         query: {
+          apiKey: process.env.NEXT_PUBLIC_NEWS_API_KEY as string,
           country: ctx.locale === 'en' ? 'us' : locale,
           pageSize: '20',
         },
