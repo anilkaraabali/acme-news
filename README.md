@@ -1,22 +1,27 @@
-# Acme Store
+# Acme News
 
-Acme Store is a modern, fully-featured e-commerce web application built with the latest web technologies. It provides users with an intuitive shopping experience, offering product browsing, cart management, and a seamless checkout process.
+Your trusted source for breaking news, trending stories, and comprehensive reports from across the globe.
 
-## Demo
+## Prerequisites
 
-Check out the live demo of Acme Store!
+Before starting, make sure your system meets the following requirements:
 
-[Demo](https://acme-store-kappa.vercel.app/)
+1. Node.js: Version `>=18.20.4`. You can download it from [nodejs.org](nodejs.org).
+2. Package Manager: This project requires pnpm instead of npm or yarn. If you don’t have pnpm installed, you can install it using the following command:
 
-Feel free to explore and interact with the store's features.
+```bash
+npm install -g pnpm
+```
+
+Ensure these prerequisites are set up before proceeding to the next steps.
 
 ## Getting Started
 
 To get started with this project, clone the repository and install the dependencies:
 
 ```bash
-git clone https://github.com/anilkaraabali/acme-store.git
-cd acme-store
+git clone https://github.com/anilkaraabali/acme-news.git
+cd acme-news
 pnpm install
 ```
 
