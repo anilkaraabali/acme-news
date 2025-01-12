@@ -7,9 +7,6 @@ import { promiseAllSettled } from '@/utils';
 import { pick } from 'radash';
 
 export const getServerSideProps = (async (ctx) => {
-  const locale =
-    ctx.locale !== undefined && ctx.locale !== 'en' ? ctx.locale : 'en';
-
   const slug = ctx.params?.slug as string;
 
   if (!slug) {
@@ -23,7 +20,7 @@ export const getServerSideProps = (async (ctx) => {
       mapper: newsApiMapper,
       origin: process.env.NEXT_PUBLIC_NEWS_API_ORIGIN as string,
       query: {
-        country: ctx.locale === 'en' ? 'us' : locale,
+        apiKey: process.env.NEXT_PUBLIC_NEWS_API_KEY as string,
         pageSize: '20',
         q: slug[0],
       },
