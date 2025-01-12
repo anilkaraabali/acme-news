@@ -49,7 +49,11 @@ const YourTopics: FC<YourTopicsProps> = ({ articles }) => {
                 color='foreground'
                 href='/topics/headlines'
               >
-                {t(`Common.categories.${article.category}` as DynamicTranslationKey)}{' '}
+                {t(
+                  `Common.categories.${
+                    article.category
+                  }` as DynamicTranslationKey
+                )}
                 <LiaAngleRightSolid className='ml-1' size={20} />
               </Link>
             </h3>

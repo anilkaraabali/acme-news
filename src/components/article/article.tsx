@@ -4,7 +4,6 @@ import dayjs from 'dayjs';
 import relativeTime from 'dayjs/plugin/relativeTime';
 import Image from 'next/image';
 import { useTranslations } from 'next-intl';
-import { dash } from 'radash';
 import { ComponentPropsWithRef, forwardRef, useState } from 'react';
 
 import { IArticle } from './types';
